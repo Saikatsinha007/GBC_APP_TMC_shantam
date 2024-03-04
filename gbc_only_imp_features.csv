@@ -1,0 +1,699 @@
+Thyroidism,Diabetes,HTN,Family_cancer_history,ECOG_final,Gall_stone_final,Pathology,Cancer_presentation_final,Tumour_stage_final,Mets_site_final,Surgery_final,Treatment_final,Status,Date_event,Date_diagnosis,AGE,BMI_DETAILS,BILIRUBIN TOTAL,AST - SGOT,ALT - SGPT,ALK PHOS [ALP],GAMMA GT,ALBUMIN
+No,No,Yes,No,1,Yes,Adenocarcinoma,Incidental,Stage IV,Not applicable,Radical,Curative,Dead,2018-12-31,2016-12-23,60,24.93,0.5,23.0,28.0,147.0,21.0,4.7
+No,No,No,No,Not known,No,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,No,Palliative_care,,,2016-12-22,50,21.75,0.7,30.0,27.0,83.0,76.0,3.4
+Hypothyroidism,Yes,Yes,Not known,Not known,Not known,Adenocarcinoma,Incidental,Stage III,Not applicable,Radical,Curative,Dead,,2016-12-02,60,24.35,,,,,,
+No,No,Yes,No,1,No,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,No,Palliative_care,,,2017-05-06,63,25.71,5.6,48.0,98.0,481.0,83.0,4.1
+No,No,No,No,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2018-01-26,2017-01-30,58,22.55,0.4,348.0,78.0,206.0,481.0,3.2
+No,No,Yes,No,2,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2018-07-03,2017-01-24,62,0.0,,,,,,
+No,No,Yes,No,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Lungs,No,Disease Control,,,2017-02-15,70,19.61,0.8,64.0,14.0,141.0,386.0,4.5
+No,Yes,Yes,Not known,1,Yes,MiNEN,Incidental,Stage II,Not applicable,Simple,Disease Control,Dead,2018-12-31,2017-01-04,62,20.22,1.0,36.0,31.0,108.0,21.0,4.6
+Hypothyroidism,Not known,Yes,Not known,Not known,Yes,Adenocarcinoma,Locally advanced,Not known,Not applicable,No,Palliative_care,Dead,2018-03-14,2017-02-16,77,24.15,20.5,286.0,130.0,492.0,209.0,2.6
+No,No,No,No,1,Yes,Adenosquamous carcinoma,Locally advanced,Stage IV,Not applicable,No,Disease Control,,,2017-02-17,45,20.11,3.3,53.0,55.0,278.0,101.0,3.6
+Not known,Not known,Not known,Not known,Not known,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2017-09-01,2017-02-22,45,26.16,0.5,134.0,84.0,276.0,210.0,3.9
+No,Yes,Yes,No,1,Yes,Others,Metastatic,Stage IV,Liver,No,Palliative_care,,,2017-03-08,64,26.67,0.9,63.0,42.0,261.0,155.0,3.8
+No,No,No,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2017-06-03,2017-02-16,59,22.88,0.6,29.0,23.0,170.0,34.0,4.0
+Not known,Not known,No,No,1,Yes,Adenocarcinoma,Incidental,Not known,Not applicable,Radical,Disease Control,Dead,2019-01-01,2016-08-16,62,17.4,0.8,26.0,15.0,139.0,17.0,4.3
+No,Yes,Yes,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2017-10-11,2017-02-20,54,0.0,3.2,53.0,48.0,249.0,357.0,3.7
+Hypothyroidism,No,No,Not known,1,Yes,Mucinous adenocarcinoma,Incidental,Stage III,Not applicable,Radical,Curative,Dead,2018-11-01,2017-01-30,55,29.92,0.4,63.0,66.0,304.0,178.0,3.2
+Hypothyroidism,Yes,No,No,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,,,2017-03-15,59,30.57,4.4,246.0,272.0,380.0,1839.0,4.0
+No,No,Yes,No,0,Polyp,Adenocarcinoma,Incidental,Stage I,Not applicable,Simple,Disease Control,,,2017-01-31,56,24.5,0.8,30.0,24.0,60.0,18.0,4.1
+Not known,Not known,Not known,Not known,Not known,Not known,Adenocarcinoma,Locally advanced,Stage IV,Liver,No,Disease Control,Dead,2017-03-30,2017-03-21,65,24.07,,,,,,
+No,No,No,Not known,1,Yes,Carcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2017-09-01,2017-03-25,36,29.22,0.7,82.0,76.0,228.0,130.0,4.4
+No,No,Yes,Not known,1,Yes,ICPN with invasive carcinoma,Incidental,Stage III,Not applicable,Radical,Curative,Dead,2018-01-14,2017-03-07,71,19.88,0.6,19.0,10.0,74.0,18.0,4.2
+No,Yes,Yes,Not known,Not known,Yes,Adenocarcinoma,Metastatic,Stage III,Not applicable,Radical,Curative,Dead,2019-04-04,2017-02-21,62,0.0,,,,,,
+Not known,Not known,Not known,Not known,Not known,Yes,Adenocarcinoma,Incidental,Stage IV,Peritoneum & Omentum,Simple,Disease Control,Dead,2017-12-31,2015-03-27,49,16.03,0.7,56.0,80.0,316.0,468.0,4.1
+Hypothyroidism,Yes,No,No,1,Yes,Adenocarcinoma,Incidental,Stage IV,Liver,Simple,Disease Control,Dead,2017-07-16,2017-03-07,51,28.66,0.5,32.0,76.0,91.0,40.0,3.0
+No,No,Yes,Not known,Not known,Not known,Adenocarcinoma,Locally advanced,Stage IV,Not applicable,Radical,Curative,Dead,2018-05-30,2017-03-16,61,18.16,13.3,35.0,56.0,80.0,61.0,3.2
+Hypothyroidism,No,No,Not known,2,Yes,Adenocarcinoma,Incidental,Stage II,Not applicable,Simple,Disease Control,Dead,2017-12-31,2017-03-08,61,22.19,0.6,42.0,34.0,115.0,20.0,4.1
+No,No,No,No,1,Yes,Adenocarcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Live,,2017-03-01,59,0.0,,,,,,
+No,No,No,Not known,1,Not known,Adenocarcinoma,Locally advanced,,Not applicable,No,Disease Control,Live,,2016-12-31,53,32.54,1.0,35.0,15.0,84.0,59.0,3.9
+No,No,No,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2018-03-18,2017-04-06,52,24.35,0.6,160.0,85.0,360.0,316.0,3.8
+Not known,Not known,Not known,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2017-12-31,2017-04-12,69,29.57,3.0,78.0,46.0,120.0,74.0,3.6
+No,No,Yes,Not known,2,Yes,Adenocarcinoma,Locally advanced,Not known,Not applicable,No,Palliative_care,Dead,2017-08-22,2017-04-21,51,29.3,9.8,83.0,25.0,307.0,75.0,3.6
+No,No,No,Yes,1,Yes,Adenocarcinoma,Incidental,Stage IV,Liver,Simple,Disease Control,,,,55,25.32,0.4,21.0,7.0,99.0,185.0,4.0
+Hypothyroidism,No,Yes,Not known,2,Yes,Adenocarcinoma,Incidental,Stage III,Not applicable,Radical,Disease Control,,,,71,17.58,0.6,25.0,30.0,129.0,19.0,4.9
+No,No,No,No,1,Yes,Adenosquamous carcinoma,Incidental,Stage II,Not applicable,Radical,Curative,,,,21,28.5,0.5,23.0,16.0,68.0,19.0,4.6
+No,Yes,Yes,Not known,1,Yes,Mucinous adenocarcinoma,Incidental,Stage II,Not applicable,Simple,Disease Control,,,,69,19.61,0.3,46.0,46.0,126.0,43.0,4.0
+No,Not known,Yes,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,,,65,22.67,0.7,47.0,30.0,409.0,29.0,4.4
+No,No,No,Not known,1,Not known,Adenocarcinoma,Locally advanced,Stage III,Not applicable,Radical,Curative,Dead,2017-12-31,2017-03-28,62,17.26,0.8,26.0,29.0,89.0,22.0,4.6
+Hypothyroidism,Yes,Yes,Not known,3,Yes,Adenocarcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Dead,2017-11-26,2017-04-18,54,27.48,15.4,98.0,79.0,1227.0,486.0,3.4
+No,No,No,Not known,1,Yes,Adenocarcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Dead,2018-05-26,2017-05-05,55,27.07,0.9,25.0,38.0,84.0,81.0,4.0
+No,No,Yes,Yes,2,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2019-09-11,2017-05-26,65,33.66,0.8,49.0,38.0,171.0,54.0,4.2
+No,No,Yes,No,1,Yes,Adenocarcinoma,Incidental,Stage IV,Liver,Simple,Disease Control,Dead,2018-07-03,2017-05-16,65,24.26,0.6,88.0,88.0,495.0,1161.0,4.1
+No,No,Yes,No,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,,,64,31.73,,,,,,
+No,No,No,No,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2017-06-28,2017-06-06,53,19.56,13.6,170.0,93.0,500.0,300.0,3.5
+Not known,Not known,Not known,Not known,1,No,Adenocarcinoma,Metastatic,Stage IV,Adrenal gland,No,Disease Control,,,,49,24.08,0.6,79.0,98.0,176.0,153.0,4.5
+No,No,Yes,No,2,Not known,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,No,Palliative_care,Dead,2017-09-16,2017-06-08,55,0.0,,,,,,
+No,No,Yes,Yes,Not known,Yes,Adenocarcinoma,Metastatic,Not known,Not applicable,Simple,Disease Control,,,,56,0.0,0.7,32.0,47.0,70.0,52.0,4.6
+No,Yes,Yes,Not known,1,Yes,Adenocarcinoma,Locally advanced,Stage II,Not applicable,Radical,Disease Control,Dead,2018-02-13,2017-05-05,63,25.25,0.5,130.0,100.0,88.0,450.0,2.1
+No,No,No,No,1,Yes,Adenocarcinoma,Metastatic,Not known,Not applicable,Simple,Disease Control,No,2020-05-11,2017-04-30,37,21.55,0.5,24.0,32.0,139.0,80.0,4.4
+No,Yes,Yes,Not known,3,Yes,Adenocarcinoma,Metastatic,Stage IV,Stomach & Intestine,No,Palliative_care,Dead,,,59,18.78,21.9,97.0,70.0,350.0,293.0,2.8
+No,No,No,No,1,Not known,Adenocarcinoma,Incidental,Stage III,Not applicable,Simple,Disease Control,Dead,2019-07-27,2017-05-20,68,19.31,,,,,,
+Not known,Not known,Not known,Not known,2,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Live,,2017-06-17,60,23.47,1.0,35.0,28.0,122.0,37.0,4.3
+No,No,No,Not known,2,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,,,,54,22.43,1.2,141.0,60.0,346.0,508.0,3.8
+Not known,Yes,Yes,No,1,Yes,Adenosquamous carcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Dead,2017-11-26,2017-04-26,63,19.31,0.7,20.0,23.0,170.0,42.0,4.3
+No,No,No,No,2,Yes,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,No,Palliative_care,Dead,2017-12-31,2017-06-23,67,0.0,,,,,,
+Hypothyroidism,No,Yes,Yes,1,Polyp,Adenocarcinoma,Locally advanced,Stage II,Not applicable,Radical,Curative,Live,,2017-08-14,58,25.97,0.3,18.0,23.0,159.0,35.0,
+No,Yes,Yes,No,3,Yes,Adenocarcinoma,Incidental,Stage III,Not applicable,Simple,Disease Control,Dead,2017-08-01,2017-06-12,53,0.0,,,,,,
+No,No,No,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Lungs,No,Disease Control,Dead,2018-05-15,2017-06-28,58,23.07,0.4,171.0,189.0,303.0,274.0,4.0
+Hypothyroidism,No,No,Not known,2,Yes,Adenocarcinoma,Locally advanced,Not known,Not applicable,No,Disease Control,Dead,2018-03-26,2017-09-20,73,0.0,1.7,72.0,54.0,604.0,1015.0,3.5
+Not known,No,No,No,2,Yes,Adenocarcinoma,Incidental,Stage III,Not applicable,Simple,Disease Control,Dead,2018-12-31,2017-06-14,40,22.56,2.4,214.0,274.0,1111.0,2541.0,4.4
+No,No,Yes,Not known,0,Polyp,Adenocarcinoma,Incidental,Stage II,Not applicable,Radical,Curative,,,,53,30.73,0.4,25.0,41.0,169.0,102.0,3.6
+No,Yes,Yes,Not known,Not known,Not known,Adenocarcinoma,Incidental,Not known,Not applicable,Radical,Disease Control,Live,,2017-06-03,68,0.0,,,,,,
+No,Yes,No,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage III,Not applicable,No,Disease Control,Dead,2019-11-14,2017-07-12,58,0.0,0.5,21.0,28.0,44.0,36.0,4.1
+No,No,No,No,2,Yes,Neuroendocrine carcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Dead,2017-07-25,2017-06-12,56,0.0,2.8,574.0,592.0,1626.0,3776.0,3.6
+No,No,No,No,1,Not known,Adenocarcinoma,Metastatic,Stage III,Not applicable,Radical,Curative,Dead,2018-04-05,2017-05-22,20,0.0,0.5,23.0,44.0,163.0,42.0,4.4
+Hypothyroidism,Yes,Yes,No,2,Not known,Adenocarcinoma,Locally advanced,Stage IV,Not applicable,No,Disease Control,Dead,2017-12-08,2017-07-24,67,24.33,,,,,,
+No,Yes,No,Not known,2,No,Adenocarcinoma,Metastatic,Stage III,Not applicable,No,Palliative_care,Dead,2017-08-23,2017-07-24,71,20.65,0.6,19.0,27.0,78.0,39.0,3.8
+No,Yes,Yes,No,1,Yes,Adenocarcinoma,Incidental,Not known,Not applicable,Radical,Disease Control,Dead,2017-12-11,2017-07-03,60,34.71,0.5,78.0,130.0,90.0,48.0,4.0
+No,No,No,No,2,No,Carcinoma,Locally advanced,Stage III,Not applicable,No,Palliative_care,Live,,2017-07-28,60,0.0,4.8,114.0,73.0,448.0,145.0,2.9
+No,No,No,Yes,1,No,Adenocarcinoma,Incidental,Stage IV,Not applicable,Radical,Curative,,,,55,27.87,0.7,24.0,27.0,77.0,40.0,4.2
+No,No,Yes,Not known,3,Not known,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Palliative_care,Dead,2017-10-01,2017-08-04,70,0.0,0.5,38.0,38.0,230.0,140.0,2.8
+No,No,No,No,1,Yes,Adenocarcinoma,Incidental,Stage IV,Portsite,Simple,Disease Control,,,,47,19.27,0.5,22.0,22.0,102.0,26.0,4.4
+No,No,No,Not known,2,Yes,Adenocarcinoma,Metastatic,Stage IV,Lungs,No,Disease Control,Dead,,,55,22.95,0.4,19.0,23.0,141.0,16.0,3.9
+No,No,No,Not known,2,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,Simple,Disease Control,Live,,2017-08-07,39,24.22,,,,,,
+No,No,Yes,Not known,1,No,Adenocarcinoma,Locally advanced,Stage III,Not applicable,Radical,Disease Control,Dead,2018-10-20,2017-07-19,50,24.28,,,,,,
+No,No,No,Not known,1,Yes,Adenocarcinoma,Incidental,Stage IV,Liver & Bone,Simple,Disease Control,Dead,2018-01-13,2017-07-20,39,27.37,,,,,,
+No,No,Yes,Not known,1,No,Adenosquamous carcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,,,,70,0.0,0.7,36.0,35.0,228.0,99.0,3.6
+No,Yes,No,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage III,Not applicable,Radical,Disease Control,Dead,2018-12-31,2017-08-17,42,15.44,0.6,27.0,35.0,151.0,40.0,3.6
+No,No,No,No,2,No,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Palliative_care,Dead,2018-05-01,2017-08-18,70,14.1,6.6,357.0,229.0,714.0,470.0,3.8
+No,No,No,Not known,1,No,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Disease Control,Dead,2018-05-09,2017-09-06,66,0.0,1.4,201.0,118.0,1108.0,698.0,3.6
+Hypothyroidism,No,Yes,Yes,1,Yes,Adenocarcinoma,Locally advanced,Stage III,Not applicable,No,Disease Control,Dead,2018-10-31,2017-09-06,50,26.53,0.5,24.0,50.0,172.0,30.0,4.2
+No,Yes,Yes,Yes,1,No,Adenocarcinoma,Metastatic,Stage III,Not applicable,No,Disease Control,Dead,2019-09-29,2017-09-14,54,29.36,2.7,62.0,108.0,235.0,955.0,4.4
+No,No,Yes,Not known,2,Not known,Adenocarcinoma,Metastatic,Stage IV,Not applicable,Radical,Curative,Dead,2018-02-18,2017-08-11,54,27.67,3.8,97.0,87.0,696.0,1043.0,3.5
+No,No,Yes,No,0,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,Simple,Disease Control,Dead,2017-12-21,2017-08-09,54,27.8,1.1,48.0,228.0,105.0,105.0,2.9
+Not known,Not known,Not known,Not known,2,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,,,49,19.35,,,,,,
+No,No,Yes,Not known,1,No,Adenocarcinoma,Metastatic,Stage IV,Portsite,Simple,Disease Control,Dead,2020-02-01,2016-02-28,58,0.0,2.6,25.0,44.0,86.0,66.0,4.4
+Hypothyroidism,No,No,No,3,No,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Palliative_care,Dead,2017-11-20,2017-07-25,72,0.0,,,,,,
+No,No,No,No,1,No,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Disease Control,Dead,2019-05-01,2017-09-08,50,21.82,0.7,80.0,101.0,406.0,300.0,4.4
+No,No,Yes,Not known,1,No,Adenocarcinoma,Locally advanced,Stage II,Not applicable,Simple,Disease Control,Live,,2017-09-15,74,29.02,1.0,29.0,42.0,154.0,160.0,4.3
+No,No,No,No,1,No,Adenocarcinoma,Metastatic,Stage IV,Lungs,No,Disease Control,,,,60,26.72,0.5,43.0,132.0,188.0,213.0,4.4
+No,No,No,No,1,No,Adenocarcinoma,Metastatic,Stage IV,Portsite,Simple,Disease Control,,,,46,21.27,0.6,39.0,59.0,74.0,31.0,4.7
+No,No,Yes,Not known,3,No,ICPN with invasive carcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Live,,2019-10-15,73,31.15,0.5,25.0,10.0,51.0,12.0,3.3
+No,No,Yes,No,1,Yes,Adenocarcinoma,Metastatic,Stage III,Not applicable,Simple,Disease Control,,,,53,26.02,0.6,89.0,74.0,288.0,174.0,3.8
+No,No,No,Not known,2,Yes,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,Simple,Disease Control,Dead,2018-03-08,2017-08-01,52,20.16,0.6,45.0,54.0,111.0,73.0,4.1
+No,Yes,Yes,Not known,3,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2017-11-15,2017-08-25,62,0.0,,,,,,
+No,No,Yes,Yes,1,Not known,Others,Metastatic,Stage IV,Liver,Radical,Curative,Dead,2018-12-31,2017-10-10,59,28.04,2.1,15.0,36.0,413.0,965.0,2.6
+Hypothyroidism,Yes,Yes,Not known,4,Yes,Adenocarcinoma,Metastatic,Stage IV,Bone,No,Palliative_care,Dead,2018-08-29,2017-09-26,73,0.0,1.0,23.0,19.0,796.0,71.0,3.6
+No,No,Yes,No,1,Yes,Adenocarcinoma,Metastatic,Not known,Not applicable,No,Palliative_care,,,,81,,3.5,58.0,41.0,282.0,166.0,2.7
+No,No,Yes,No,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Disease Control,Dead,2018-01-22,2017-10-04,49,18.95,0.8,66.0,86.0,1787.0,471.0,4.1
+No,Yes,No,Not known,1,Yes,Adenocarcinoma,Incidental,Stage IV,Portsite,Simple,Disease Control,Dead,,,62,25.45,,,,,,
+Hypothyroidism,No,Yes,No,0,Yes,Adenocarcinoma,Metastatic,Stage III,Not applicable,No,Disease Control,Dead,2019-02-25,2017-09-19,45,0.0,0.9,61.0,35.0,91.0,184.0,4.4
+No,No,No,Not known,1,No,Adenocarcinoma,Metastatic,Stage IV,Lungs and bone,No,Disease Control,Dead,2018-03-25,2017-10-09,52,20.62,2.4,65.0,186.0,524.0,321.0,3.4
+No,No,Yes,No,1,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2020-12-23,2017-10-08,58,21.89,0.3,42.0,34.0,122.0,184.0,4.4
+No,No,No,Not known,2,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2018-01-03,2017-09-11,74,20.75,,,,,,
+No,No,No,No,1,Yes,Adenocarcinoma,Incidental,Stage II,Not applicable,Simple,Disease Control,Dead,2018-02-25,2017-01-15,45,26.53,2.8,111.0,191.0,359.0,479.0,3.6
+Hypothyroidism,Yes,Yes,Not known,1,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2017-11-21,2017-10-04,73,24.23,0.4,27.0,35.0,91.0,81.0,4.4
+No,No,No,Not known,1,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2018-04-14,2017-10-16,56,20.49,,,,,,
+No,No,No,No,1,No,Adenocarcinoma,Metastatic,Stage IV,Liver,Simple,Disease Control,Dead,2018-01-21,2017-09-19,52,20.77,4.2,163.0,259.0,574.0,,4.1
+No,No,No,No,1,No,Adenocarcinoma,Incidental,Stage III,Not applicable,Simple,Disease Control,,,2017-08-28,69,19.31,1.2,24.0,29.0,95.0,26.0,4.5
+No,No,No,Not known,2,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2017-11-26,2016-10-20,51,24.36,0.8,130.0,72.0,266.0,142.0,3.3
+No,No,No,Not known,2,No,Adenocarcinoma,Metastatic,Stage IV,Liver & Lungs,No,Disease Control,Dead,2018-08-31,2017-10-25,54,22.71,0.6,96.0,78.0,290.0,662.0,4.0
+Hypothyroidism,No,No,No,1,No,Adenocarcinoma,Incidental,Stage II,Not applicable,Simple,Disease Control,Dead,2020-10-14,2017-08-10,64,21.12,1.4,42.0,48.0,134.0,41.0,3.4
+No,Yes,Yes,No,1,No,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Disease Control,Dead,2018-10-23,2017-10-28,54,25.44,0.4,20.0,28.0,104.0,16.0,4.3
+No,No,No,Not known,2,Yes,Adenocarcinoma,Locally advanced,Stage IV,Not applicable,No,Disease Control,Dead,2019-08-10,2017-08-10,42,28.42,0.8,83.0,57.0,475.0,400.0,3.9
+No,No,No,Not known,2,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,,,2017-11-05,54,20.56,,,,,,
+Hypothyroidism,No,Yes,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,No,Disease Control,Dead,2017-12-11,2017-11-17,65,,,,,,,
+No,Yes,No,Not known,1,Yes,Adenocarcinoma,Incidental,Stage IV,Not applicable,Radical,Disease Control,Dead,2020-12-17,2017-10-12,63,27.57,0.5,45.0,65.0,117.0,20.0,4.2
+No,No,No,Not known,1,Yes,Adenosquamous carcinoma,Locally advanced,Stage II,Not applicable,Radical,Curative,Dead,2018-01-08,2017-12-11,44,18.11,0.5,26.0,24.0,84.0,210.0,3.6
+No,No,Yes,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,,,2017-11-24,61,16.37,2.3,95.0,78.0,246.0,66.0,4.6
+No,No,No,No,2,No,Adenocarcinoma,Metastatic,Stage III,Not applicable,No,Disease Control,Dead,2019-12-16,2017-11-15,45,0.0,2.5,151.0,211.0,271.0,1086.0,3.8
+Hypothyroidism,No,No,Not known,3,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2018-08-04,2017-11-01,57,20.72,1.2,35.0,150.0,167.0,142.0,4.0
+No,No,No,No,2,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,Partial,Disease Control,,,2017-10-23,54,21.88,1.0,40.0,57.0,250.0,384.0,4.0
+No,Yes,No,No,1,Not known,Others,Locally advanced,Stage IV,Not applicable,Radical,Disease Control,Dead,2021-04-07,2017-09-23,52,0.0,,,,,,
+No,No,No,Not known,2,Yes,MiNEN,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2018-08-31,2017-11-30,62,31.4,0.8,50.0,32.0,149.0,528.0,3.9
+No,No,No,Yes,2,Yes,Adenocarcinoma,Incidental,Stage IV,Peritoneum & Omentum,Partial,Disease Control,Dead,2020-08-01,2017-11-15,73,0.0,0.5,49.0,32.0,100.0,22.0,4.2
+No,Yes,Yes,No,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,Simple,Disease Control,Dead,2018-11-28,2017-11-09,48,27.1,0.5,27.0,30.0,120.0,152.0,4.1
+No,No,No,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,,Dead,2018-01-06,2017-11-29,49,21.51,,,,,,
+No,Yes,No,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Ovary & Uterus,No,Disease Control,Dead,2018-08-31,2017-12-20,45,19.77,2.1,52.0,69.0,181.0,145.0,4.3
+No,Yes,Yes,Not known,3,Not known,Adenosquamous carcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2018-01-08,2017-12-08,78,25.54,,,,,,
+Hypothyroidism,No,Yes,No,1,No,Adenocarcinoma,Incidental,Stage III,Not applicable,Radical,Disease Control,Alive,,2017-10-17,67,25.16,0.4,48.0,132.0,66.0,42.0,3.5
+No,Yes,No,No,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,Simple,Disease Control,Dead,2018-03-10,2017-08-25,72,0.0,3.2,289.0,451.0,1095.0,768.0,4.3
+No,No,No,Not known,2,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2018-08-31,2017-12-26,47,16.14,3.5,335.0,304.0,1337.0,610.0,4.3
+No,No,No,Not known,1,Yes,Adenocarcinoma,Incidental,Stage III,Not applicable,Simple,Disease Control,Dead,2018-02-14,2017-07-15,66,22.07,22.7,64.0,39.0,248.0,201.0,3.3
+No,Yes,Yes,No,Not known,No,Adenocarcinoma,Incidental,Not known,Not applicable,Radical,Disease Control,,,2017-09-22,52,29.42,0.3,32.0,39.0,77.0,47.0,4.5
+No,No,No,Not known,0,No,Adenocarcinoma,Metastatic,Stage III,Not applicable,No,Disease Control,Dead,2018-08-14,2017-12-27,60,34.61,0.1,12.0,19.0,118.0,42.0,3.7
+No,No,No,No,1,Yes,Adenocarcinoma,Metastatic,Not known,Not applicable,Radical,Disease Control,,,2017-12-14,60,18.49,15.0,38.0,56.0,133.0,57.0,1.9
+No,Yes,No,Not known,3,Not known,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,No,Palliative_care,Dead,2018-01-16,2017-12-08,53,26.85,,,,,,
+No,No,Yes,Yes,2,Yes,Adenocarcinoma,Incidental,Stage II,Not applicable,Radical,Curative,Alive,,2017-09-22,60,29.7,0.8,23.0,24.0,109.0,25.0,4.2
+Hypothyroidism,Yes,Yes,Yes,1,Polyp,Adenocarcinoma,Incidental,Stage II,Not applicable,Radical,Curative,Alive,,2018-02-13,63,27.95,0.4,25.0,37.0,105.0,19.0,4.3
+Hypothyroidism,No,Yes,No,2,Yes,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,No,Palliative_care,Dead,2018-04-24,2017-12-15,70,19.45,,,,,,
+No,No,No,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Portsite,Simple,Disease Control,Dead,2017-09-12,2010-10-15,55,24.19,0.8,31.0,48.0,80.0,64.0,4.0
+Hypothyroidism,Yes,Yes,Not known,1,No,Adenocarcinoma,Metastatic,Stage IV,Lungs,No,Palliative_care,,,2017-07-15,68,22.17,,,,,,
+No,Yes,No,No,2,Yes,Adenocarcinoma,,Not known,,Simple,Disease Control,Dead,2017-07-22,2017-01-10,60,21.05,1.1,23.0,17.0,162.0,114.0,4.0
+,Yes,No,Yes,Not known,Not known,Adenocarcinoma,Metastatic,Stage IV,,No,,Dead,2017-05-05,2017-03-25,60,20.0,11.2,125.0,122.0,475.0,748.0,4.0
+,Yes,Yes,,2,,Adenocarcinoma,Metastatic,,,No,Palliative_care,Dead,2017-06-01,2017-04-12,62,21.51,0.6,48.0,187.0,789.0,779.0,3.8
+No,No,Yes,No,1,Yes,Adenocarcinoma,Incidental,Not known,,Radical,Disease Control,Alive,,2017-04-07,63,18.57,1.1,44.0,21.0,153.0,39.0,3.9
+No,No,No,No,Not known,Yes,Adenocarcinoma,,Stage II,Not applicable,Radical,Disease Control,Dead,2019-09-18,2017-06-13,49,23.54,,,,,,
+No,No,Yes,Not known,1,Not known,Adenocarcinoma,Incidental,Stage IV,Portsite,Simple,Disease Control,Dead,2020-07-20,2011-08-15,77,18.35,0.5,29.0,38.0,131.0,71.0,4.4
+No,No,Yes,Not known,1,Not known,Carcinoma,Metastatic,,,No,Disease Control,Dead,2017-08-26,2017-08-04,72,28.29,0.8,118.0,72.0,263.0,1032.0,3.7
+No,No,Yes,No,3,Not known,Carcinoma,Metastatic,,Liver,No,Palliative_care,Dead,2017-08-27,2017-07-21,48,0.0,10.1,54.0,17.0,149.0,44.0,2.4
+Not known,Not known,Not known,Not known,1,Not known,Adenocarcinoma,Metastatic,,Liver,Simple,Disease Control,,,2016-12-09,64,,,,,,,
+Not known,Not known,Not known,Not known,Not known,Not known,Adenocarcinoma,Metastatic,,Liver,Simple,Disease Control,Dead,2017-01-02,2016-10-23,42,0.0,0.4,33.0,20.0,88.0,34.0,4.7
+Not known,Not known,Not known,Not known,2,Not known,Adenocarcinoma,Metastatic,,Liver,No,Disease Control,,,2016-08-03,42,,,,,,,
+Hypothyroidism,No,No,Yes,0,Not known,Adenocarcinoma,Incidental,Stage III,Not applicable,Radical,Disease Control,Alive,,2016-05-15,45,26.84,0.6,29.0,18.0,159.0,54.0,3.8
+Not known,Not known,Not known,Not known,2,Not known,Adenocarcinoma,Metastatic,,Liver,No,Palliative_care,,,2017-01-03,90,,,,,,,
+No,No,No,Not known,2,Not known,Adenocarcinoma,Metastatic,,Liver,No,,Dead,2017-04-04,2017-01-07,44,,,,,,,
+Not known,Not known,Not known,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Stomach & Intestine,No,Disease Control,Dead,2017-04-24,2016-12-30,51,26.65,0.9,39.0,62.0,224.0,246.0,3.8
+Not known,Not known,Yes,Not known,Not known,Yes,Adenocarcinoma,Incidental,Not known,Not applicable,Radical,Curative,Alive,,2016-12-09,66,0.0,,,,,,
+,,,,1,,Adenocarcinoma,Metastatic,,,,,Dead,2017-04-24,2017-01-24,58,,,,,,,
+No,No,No,Not known,2,Yes,Adenocarcinoma,Incidental,,Pancreas,Simple,Disease Control,Dead,2017-02-27,2016-01-27,52,14.44,,,,,,
+Not known,Not known,Not known,Not known,4,Not known,Adenocarcinoma,Metastatic,,Liver,No,Palliative_care,Dead,2017-03-01,2017-01-30,53,,,,,,,
+Not known,Not known,Not known,Not known,2,Not known,Adenocarcinoma,Metastatic,,Liver,No,,Dead,2017-12-22,2017-02-03,58,,,,,,,
+No,No,Yes,Not known,1,Yes,Adenocarcinoma,,Not known,,Radical,Curative,Alive,,2017-01-18,71,28.12,0.5,23.0,31.0,164.0,21.0,3.7
+No,No,No,Not known,1,Not known,Adenocarcinoma,Metastatic,,Peritoneum & Omentum,No,,,,2017-02-06,35,,,,,,,
+No,No,No,Not known,1,Not known,Adenocarcinoma,Metastatic,,Liver,No,Disease Control,Dead,2018-05-12,2017-02-20,62,,,,,,,
+No,No,No,No,1,Not known,Adenocarcinoma,Metastatic,,Liver,Simple,Disease Control,Dead,2018-02-01,2015-05-15,36,24.07,,,,,,
+No,Yes,Yes,No,1,Yes,Adenocarcinoma,Incidental,,,Radical,Disease Control,Alive,,2017-01-23,70,22.12,,,,,,
+Not known,Not known,Not known,Not known,2,Not known,Adenocarcinoma,Metastatic,Stage IV,Stomach & Intestine,No,Disease Control,Dead,2017-04-01,2017-02-25,57,20.39,0.8,37.0,94.0,277.0,291.0,2.5
+No,No,No,Not known,1,Not known,Adenocarcinoma,Metastatic,,Peritoneum & Omentum,No,Disease Control,Dead,2018-08-01,2017-03-10,67,20.37,0.5,17.0,85.0,66.0,53.0,3.2
+No,No,Yes,No,3,Yes,Adenocarcinoma,Metastatic,Stage III,,No,Palliative_care,Dead,,2017-02-20,65,0.0,,,,,,
+No,Yes,No,No,,Yes,Adenocarcinoma,Incidental,Stage I,,Simple,Disease Control,,,2017-02-23,54,,,,,,,
+No,Yes,Yes,No,1,Not known,Adenocarcinoma,Incidental,,Liver,Simple,Disease Control,,,2017-03-23,60,22.15,,,,,,
+,,,,,,Carcinoma,,,,,,Dead,2019-07-28,2017-01-15,64,,,,,,,
+,,,,,,Carcinoma,,,,,,Dead,2017-05-16,,28,,,,,,,
+Not known,Not known,Not known,Not known,3,Not known,Adenocarcinoma,Incidental,Stage II,,Simple,Disease Control,Dead,2017-04-01,2017-02-03,49,,1.0,19.0,9.0,266.0,56.0,3.9
+Not known,Yes,No,No,1,Not known,Adenosquamous carcinoma,Incidental,Stage II,,Simple,Disease Control,,,2017-03-15,49,,,,,,,
+No,No,No,No,1,Not known,Adenocarcinoma,Metastatic,,,No,Disease Control,Dead,,2017-04-16,75,,17.0,88.0,79.0,390.0,175.0,4.3
+,,,,,,Carcinoma,,,,,,Dead,2017-09-07,2017-05-05,66,,,,,,,
+No,No,No,No,3,No,Adenocarcinoma,Metastatic,,Liver,Simple,Disease Control,Dead,2017-05-01,2017-04-29,45,19.05,,,,,,
+Not known,Not known,Not known,Not known,3,Not known,Adenocarcinoma,Metastatic,,Liver,No,Palliative_care,Dead,,2017-05-02,86,,,,,,,
+No,No,No,No,1,Yes,Adenocarcinoma,Locally advanced,Stage IV,,Radical,Curative,,,2017-04-04,62,24.02,,,,,,
+Not known,Not known,Not known,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage IV,,No,Disease Control,,,2017-05-08,37,19.35,,,,,,
+No,No,No,No,3,Yes,Adenosquamous carcinoma,Incidental,Stage II,,Simple,Disease Control,Dead,2018-06-01,2017-04-25,60,17.31,,,,,,
+Not known,Not known,Not known,Not known,1,Not known,Adenocarcinoma,Metastatic,,,No,Disease Control,Dead,2019-11-16,2017-05-22,60,33.96,,,,,,
+No,No,No,No,Not known,Not known,Adenocarcinoma,Locally advanced,Stage IV,,No,Disease Control,,,2016-04-15,49,,,,,,,
+Not known,Not known,Not known,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,,,2017-06-05,60,18.86,,,,,,
+No,No,Yes,No,4,Not known,Adenocarcinoma,Metastatic,,Liver,No,Palliative_care,Dead,2017-08-15,2017-05-23,76,,,,,,,
+No,No,No,Not known,1,Not known,Adenocarcinoma,Locally advanced,,,Radical,Curative,,,2016-04-05,24,22.97,1.0,58.0,81.0,178.0,120.0,4.1
+No,No,Yes,No,1,Yes,Adenocarcinoma,,,Liver,No,Disease Control,Dead,2018-06-01,2017-06-15,73,27.55,0.8,73.0,123.0,117.0,62.0,4.7
+Not known,Not known,Not known,Not known,1,Not known,Adenosquamous carcinoma,Locally advanced,,,No,Palliative_care,Dead,2017-12-04,2017-04-15,45,32.07,,,,,,
+,,,,,,Carcinoma,,,,,,Dead,2019-08-15,2017-06-30,61,,,,,,,
+,,,,1,,Adenocarcinoma,Metastatic,,,No,Disease Control,Dead,2019-11-21,2017-06-30,87,19.5,,,,,,
+Not known,Not known,Not known,Not known,1,Not known,Adenocarcinoma,Metastatic,,Liver,No,Disease Control,Dead,2017-07-01,2017-06-28,33,25.69,,,,,,
+No,No,No,No,2,Not known,Others,Locally advanced,Stage III,,No,Palliative_care,,,2017-06-08,46,,,,,,,
+No,Yes,Yes,No,Not known,Not known,Adenocarcinoma,Locally advanced,Not known,,Radical,Disease Control,Alive,,2017-06-01,70,,,,,,,
+Not known,Not known,Not known,Not known,4,Not known,Adenocarcinoma,Locally advanced,Stage IV,Bone,Radical,Disease Control,,,2015-04-15,56,0.0,,,,,,
+No,No,Yes,Not known,1,Yes,Adenocarcinoma,Metastatic,,Liver,Radical,Curative,Dead,2019-03-03,2017-08-15,69,0.0,0.9,44.0,33.0,129.0,86.0,3.8
+No,Yes,No,Yes,1,Not known,Adenocarcinoma,Locally advanced,Stage II,,No,Palliative_care,,,2017-03-23,54,21.64,,,,,,
+No,No,No,Not known,1,Not known,Adenocarcinoma,Locally advanced,,,No,Disease Control,Dead,2018-08-15,2017-07-18,32,20.88,1.0,82.0,61.0,322.0,1741.0,3.1
+,,,,,,Carcinoma,,,,,,Dead,2017-08-15,,58,,,,,,,
+No,No,No,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage IV,,No,Disease Control,Dead,2017-10-05,2017-07-26,52,20.34,0.4,38.0,23.0,368.0,168.0,3.1
+Hypothyroidism,Yes,Yes,No,Not known,Not known,Adenocarcinoma,Incidental,Stage II,,Simple,Disease Control,Alive,,2017-06-14,69,,,,,,,
+,,,,,,Carcinoma,,,,,,Dead,2017-08-15,2017-04-28,46,20.32,3.9,294.0,315.0,703.0,1383.0,4.0
+No,Yes,Yes,Not known,Not known,Yes,Adenocarcinoma,Incidental,Not known,Not applicable,Radical,Disease Control,,,2017-07-12,74,,,,,,,
+No,No,Yes,No,1,Not known,Adenocarcinoma,Locally advanced,Stage III,Not applicable,Radical,Curative,Dead,2018-12-02,2017-05-25,62,17.52,,,,,,
+No,No,No,No,1,Not known,Adenocarcinoma,Locally advanced,Stage IV,Liver,Radical,Curative,Dead,2018-02-16,2017-06-28,43,29.72,0.5,31.0,37.0,1412.0,1626.0,3.1
+,,,,,,Carcinoma,,,,,,Dead,2018-06-23,,46,0.0,,,,,,
+Not known,Not known,Not known,Not known,2,Not known,Adenocarcinoma,Metastatic,,Liver,No,,Dead,2018-08-15,2017-06-07,38,23.97,,,,,,
+,,,,,,Carcinoma,,,,,,Dead,2017-08-21,2017-08-09,48,,,,,,,
+No,No,Yes,Not known,4,Not known,Adenocarcinoma,Metastatic,,Liver,No,Palliative_care,Dead,2017-09-07,2017-08-23,84,0.0,,,,,,
+Not known,Not known,Not known,Not known,1,Yes,Neuroendocrine carcinoma,Metastatic,,Liver,No,Disease Control,Alive,,2017-09-01,42,24.5,1.0,70.0,76.0,570.0,226.0,4.0
+,,,,,,Adenocarcinoma,,,,,,Alive,,2015-08-15,65,,,,,,,
+,,,,,,Adenocarcinoma,Metastatic,,Liver,No,Palliative_care,,,2017-09-12,32,,,,,,,
+,,,,3,,Carcinoma,,,,,,,,,65,28.78,,,,,,
+,,,,,,Carcinoma,,,,,,,,,53,,,,,,,
+No,No,No,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,,2017-07-15,40,22.04,0.9,90.0,66.0,611.0,2237.0,4.4
+,,,,,,Adenocarcinoma,Metastatic,,Liver,No,Disease Control,Dead,2017-10-28,2017-08-01,55,,,,,,,
+,,,,,,Carcinoma,,,,,,,,,42,0.0,,,,,,
+No,No,No,Not known,3,Not known,Adenocarcinoma,,Stage IV,Liver,Simple,Disease Control,,,2017-08-09,54,22.84,,,,,,
+,,,,,,Carcinoma,,,,,,Dead,2018-04-19,2017-09-26,83,,,,,,,
+No,No,No,Not known,2,Not known,Adenocarcinoma,,Stage IV,Liver,,,Dead,2018-08-09,2017-08-10,52,16.28,0.7,33.0,33.0,553.0,863.0,3.3
+,,,,,,Carcinoma,,,,,,Dead,2018-04-01,2017-09-15,54,,,,,,,
+No,Yes,No,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,,,2017-12-12,62,28.45,0.3,34.0,35.0,135.0,183.0,4.2
+,,,,,,Carcinoma,,,,,,,,,64,,,,,,,
+No,No,No,,2,Yes,Adenocarcinoma,Metastatic,,Liver,No,Palliative_care,Dead,2017-12-27,2017-11-01,60,20.48,0.8,57.0,49.0,512.0,1242.0,3.6
+No,No,No,Not known,2,Yes,Adenocarcinoma,Incidental,,Peritoneum & Omentum,Simple,Disease Control,Dead,2018-02-08,2017-07-15,58,0.0,,,,,,
+No,No,No,No,1,Yes,Adenocarcinoma,Incidental,Not known,Not applicable,Radical,Curative,,,2017-08-29,57,24.52,,,,,,
+,,,,,,Carcinoma,,,,,,Dead,2018-03-18,2017-11-29,57,,,,,,,
+Not known,Not known,Not known,Not known,4,Not known,Adenocarcinoma,Metastatic,,Adrenal gland,Simple,Disease Control,Dead,,2017-07-15,55,,,,,,,
+,,,,,,Carcinoma,,,,,,Dead,2018-12-01,2017-12-04,47,,,,,,,
+,,,,,,Carcinoma,,,,,,Dead,,,62,21.52,,,,,,
+,,,,,,Carcinoma,,,,,,Dead,2018-03-05,,65,0.0,,,,,,
+Hypothyroidism,No,No,Not known,1,Yes,Adenocarcinoma,Incidental,Not known,,Simple,Disease Control,Alive,,2017-01-16,55,,,,,,,
+,,,,,,Carcinoma,,,,,,Dead,2018-01-01,,65,,,,,,,
+No,Yes,Yes,No,0,Not known,Adenocarcinoma,Locally advanced,Stage III,Not applicable,No,Disease Control,,,2017-03-03,52,0.0,1.5,86.0,101.0,719.0,895.0,3.7
+No,No,No,Not known,Not known,Yes,ICPN with invasive carcinoma,,Stage IV,Portsite,Radical,Curative,,,2014-11-29,42,30.01,,,,,,
+,,,,,,Carcinoma,,,,,,,,,54,31.31,,,,,,
+,,,,,,Carcinoma,,,,,,,,,70,15.39,0.3,29.0,10.0,101.0,25.0,4.0
+,,,,,,Carcinoma,,,,,,,,,67,,,,,,,
+No,No,Yes,Yes,1,Not known,Adenocarcinoma,Incidental,,Portsite,Radical,Curative,Dead,2019-11-08,2017-05-02,45,,,,,,,
+,,,,,,Adenocarcinoma,,,,,,Dead,2017-07-01,2017-05-16,38,,,,,,,
+,,,,,,Carcinoma,,,,,,,,,29,,,,,,,
+,,,,,,Carcinoma,,,,,,Dead,2017-07-01,2017-05-30,60,,,,,,,
+,,,,,,Carcinoma,,,,,,Dead,2017-06-01,2017-06-01,57,,6.4,209.0,73.0,973.0,362.0,2.5
+,,,,,,Carcinoma,,,,,,Dead,2018-07-10,2017-06-27,70,,,,,,,
+,,,,,,Carcinoma,,,,,,,,,72,,,,,,,
+,,,,,,Carcinoma,,,,,,,,,54,19.09,,,,,,
+,,,,,,Carcinoma,,,,,,,,,63,,,,,,,
+No,Yes,Yes,Not known,2,Not known,Adenocarcinoma,Locally advanced,Stage III,,No,Disease Control,Dead,2017-08-15,2017-07-21,70,24.73,,,,,,
+,,,,,,Carcinoma,,,,,,Dead,,,65,20.42,,,,,,
+No,No,Yes,Not known,Not known,,Carcinoma,,Stage III,Not applicable,,,Alive,,2017-08-25,82,25.05,,,,,,
+No,Yes,Yes,No,1,Yes,Mucinous adenocarcinoma,Incidental,Stage II,,Simple,Disease Control,,,2017-04-22,61,,,,,,,
+,,,,,,Carcinoma,,,,,,,,,60,,,,,,,
+No,No,No,Not known,1,Yes,Carcinoma,,,,Simple,Disease Control,Alive,,,47,20.59,,,,,,
+,,,,,,Carcinoma,,,,,,Dead,2018-02-01,,69,,,,,,,
+,,,,,,Carcinoma,,,,,,Dead,2018-09-01,2017-12-06,68,,,,,,,
+No,No,No,Not known,1,Not known,Adenocarcinoma,Metastatic,,Bone,No,Disease Control,,,2017-02-02,37,29.68,,,,,,
+No,No,Yes,Not known,3,Yes,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,Simple,Disease Control,,,2016-10-15,64,0.0,,,,,,
+No,No,No,Not known,1,Yes,Adenosquamous carcinoma,Metastatic,Stage III,Not applicable,Radical,Curative,Dead,2018-07-20,2017-12-21,70,23.96,2.3,80.0,137.0,1068.0,93.0,4.1
+No,No,No,Not known,2,No,Adenosquamous carcinoma,Metastatic,Stage IV,Liver & Lungs,No,Palliative_care,Not Known,,2017-12-19,65,19.14,15.5,109.0,172.0,329.0,274.0,3.9
+No,No,Yes,Yes,1,No,Adenocarcinoma,Incidental,Stage III,Not applicable,Radical,Curative,Live,,2017-11-23,48,24.43,0.9,39.0,61.0,86.0,38.0,5.0
+Hypothyroidism,No,Yes,Not known,2,No,Adenocarcinoma,Metastatic,Stage IV,Liver & Bone,No,Palliative_care,Dead,2018-12-02,2017-12-29,64,20.0,0.6,44.0,59.0,151.0,120.0,4.9
+Hypothyroidism,Yes,Yes,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2019-05-20,2018-01-09,53,30.57,0.5,40.0,30.0,234.0,122.0,4.4
+No,No,Yes,Not known,1,No,Carcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2018-08-26,2018-01-06,48,26.49,0.5,18.0,26.0,136.0,37.0,3.0
+No,No,Yes,No,2,Not known,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Disease Control,Dead,2019-11-24,2018-01-11,55,25.52,0.6,70.0,61.0,174.0,81.0,4.1
+No,Yes,Yes,Not known,1,No,Adenocarcinoma,Incidental,Stage II,Not applicable,Simple,Disease Control,Dead,2019-05-01,2017-11-22,77,22.76,,,,,,
+No,Yes,Yes,No,1,Not known,Adenocarcinoma,Locally advanced,Stage III,Not applicable,No,Disease Control,Dead,2018-06-22,2018-01-24,73,20.44,1.8,85.0,346.0,1119.0,183.0,1.8
+No,No,No,No,0,No,Adenocarcinoma,Incidental,Stage IV,Lungs,Simple,Disease Control,Live,,2017-11-15,42,22.81,,,,,,
+No,No,No,No,1,Yes,Adenocarcinoma,Incidental,Stage II,Not applicable,Radical,Disease Control,Live,,2017-12-16,66,0.0,1.1,26.0,54.0,56.0,105.0,4.5
+No,No,Yes,No,1,Yes,Adenocarcinoma,Incidental,Stage II,Not applicable,Simple,Disease Control,Not Known,,2017-11-11,68,2211.65,0.5,22.0,23.0,132.0,,4.5
+No,No,No,No,2,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,,,44,,,,,,,
+Hypothyroidism,Yes,No,Not known,1,Yes,Adenocarcinoma,Incidental,Stage IV,Peritoneum & Omentum,Simple,Disease Control,Dead,2018-08-01,2018-01-06,71,20.96,,,,,,
+No,No,No,Not known,1,No,Adenocarcinoma,Incidental,Stage IV,Liver,Simple,Disease Control,Not Known,,2017-11-28,41,0.0,,,,,,
+No,No,No,No,1,Yes,Adenocarcinoma,Incidental,Stage IV,Liver & Lungs,Simple,Disease Control,Not Known,,2018-01-05,45,18.06,0.6,118.0,159.0,274.0,408.0,4.7
+No,No,No,No,2,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2019-02-21,2018-02-09,65,21.08,16.5,320.0,155.0,244.0,29.0,4.3
+No,Yes,Yes,No,1,No,Adenocarcinoma,Incidental,Stage IV,Peritoneum & Omentum,Simple,Disease Control,Dead,2018-12-10,2018-02-06,58,19.95,1.2,130.0,190.0,305.0,421.0,4.3
+No,No,No,No,2,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2018-03-27,2018-02-28,78,19.58,24.8,133.0,97.0,447.0,173.0,3.3
+No,No,No,No,2,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,Simple,Disease Control,Dead,2018-03-17,2017-10-01,38,24.44,2.7,58.0,46.0,1473.0,794.0,3.0
+No,Yes,Yes,Not known,1,No,Adenocarcinoma,Metastatic,Stage IV,Liver,Simple,Disease Control,Not Known,,2017-11-15,48,29.22,1.6,62.0,37.0,563.0,493.0,3.3
+No,Yes,No,No,1,Yes,Adenocarcinoma,Incidental,Stage IV,Liver,Simple,Disease Control,Not Known,,2017-04-01,31,21.68,9.5,108.0,79.0,777.0,708.0,3.5
+Hypothyroidism,No,Yes,No,1,No,Carcinoma,Incidental,Stage IV,Portsite,Simple,Disease Control,Dead,2020-11-21,2008-08-15,63,37.55,0.6,22.0,16.0,83.0,45.0,4.1
+No,No,No,No,1,Yes,Mucinous adenocarcinoma,,Stage IV,Not applicable,Simple,Disease Control,Dead,2021-03-10,2018-02-14,55,25.81,0.4,34.0,31.0,100.0,19.0,4.3
+No,Yes,No,Not known,1,No,Adenocarcinoma,Metastatic,Stage IV,Liver,Simple,Disease Control,Dead,2019-02-27,2018-02-24,53,22.56,0.5,35.0,34.0,357.0,750.0,3.7
+No,No,No,No,Not known,No,Adenocarcinoma,Metastatic,Stage IV,Chest,No,Palliative_care,Dead,2018-06-17,2018-03-23,43,18.74,,,,,,
+No,No,No,Yes,2,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,Simple,Disease Control,Dead,2018-12-08,2018-03-06,61,17.45,0.5,79.0,23.0,351.0,143.0,2.9
+No,No,No,Not known,1,Yes,Adenosquamous carcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2018-09-29,2018-03-20,60,16.94,0.3,18.0,24.0,173.0,99.0,3.4
+No,Yes,Yes,No,1,No,Others,Incidental,Stage IV,Not applicable,Simple,Disease Control,Dead,2019-05-31,2018-03-08,56,18.54,4.0,120.0,189.0,552.0,329.0,4.3
+No,No,Yes,Yes,1,Yes,Adenocarcinoma,Incidental,Stage IV,Liver,Simple,Disease Control,Dead,2018-06-24,2018-02-09,70,25.71,0.7,27.0,27.0,99.0,79.0,4.7
+No,No,Yes,No,1,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Not Known,,2018-04-04,52,19.27,4.7,66.0,71.0,1475.0,1376.0,3.8
+No,No,No,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,Simple,Disease Control,Dead,2019-07-09,2018-03-28,63,21.11,0.3,29.0,131.0,808.0,142.0,2.5
+No,No,Yes,No,1,Yes,Adenocarcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Dead,2018-05-22,2018-03-07,61,24.05,0.8,109.0,82.0,1135.0,835.0,3.7
+No,Yes,Yes,Not known,1,Yes,Adenocarcinoma,Incidental,Stage III,Not applicable,Radical,Curative,Dead,2019-02-05,2018-03-27,54,20.91,0.4,27.0,28.0,97.0,11.0,4.0
+No,Yes,Yes,Not known,1,No,Adenocarcinoma,Locally advanced,Stage II,Not applicable,Radical,Curative,Live,,2018-04-07,68,24.79,0.6,38.0,30.0,141.0,200.0,4.4
+No,No,No,Not known,1,Yes,Adenocarcinoma,Incidental,Stage III,Not applicable,Radical,Curative,Dead,2020-03-01,2018-03-27,45,26.62,,,,,,
+Not known,Not known,Not known,Not known,2,Yes,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,No,Disease Control,Dead,2018-06-02,2018-04-13,71,31.13,18.5,55.0,66.0,212.0,127.0,4.0
+Not known,Not known,Not known,Yes,1,No,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Palliative_care,Not Known,,2018-04-09,66,17.05,,,,,,
+No,No,Yes,No,1,Yes,Adenocarcinoma,Incidental,Stage IV,Liver,Simple,Disease Control,Not Known,,2018-03-24,61,32.21,13.1,25.0,19.0,761.0,2273.0,3.6
+No,Yes,No,Not known,2,No,Adenocarcinoma,Locally advanced,Stage IV,Not applicable,No,Palliative_care,Dead,2018-05-22,2018-04-16,61,22.91,,,,,,
+Not known,Not known,Not known,Not known,2,Yes,Adenocarcinoma,Locally advanced,Stage IV,Liver,No,Palliative_care,Dead,2018-05-19,2018-03-15,52,22.7,18.5,2203.0,390.0,473.0,70.0,3.7
+No,No,No,No,1,Yes,Adenocarcinoma,Metastatic,Stage III,Not applicable,No,Disease Control,Dead,2018-11-11,2018-05-01,47,23.91,,,,,,
+No,No,No,No,2,Yes,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Palliative_care,Dead,2018-11-15,2018-04-24,72,20.04,10.6,111.0,58.0,649.0,297.0,2.8
+No,Yes,Yes,Not known,Not known,No,Adenocarcinoma,Metastatic,Stage IV,Liver & Lungs,No,Palliative_care,Dead,2018-12-11,2018-04-25,73,,,,,,,
+No,No,No,Not known,2,No,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Disease Control,Dead,2019-05-04,2018-05-08,60,30.65,24.2,54.0,117.0,107.0,134.0,4.0
+No,No,No,No,1,Yes,Adenocarcinoma,Incidental,Stage II,Not applicable,Simple,Disease Control,Not Known,,2018-04-05,35,22.0,0.8,23.0,21.0,103.0,27.0,4.6
+No,No,No,No,1,Yes,Mucinous adenocarcinoma,Incidental,Stage IV,Peritoneum & Omentum,Simple,Disease Control,Dead,,2018-04-06,58,21.77,,,,,,
+No,Yes,No,No,1,Yes,Adenocarcinoma,,Stage IV,Lungs,Simple,Disease Control,Dead,2018-08-18,2018-03-29,38,24.11,9.7,139.0,266.0,318.0,255.0,4.7
+No,No,Yes,No,2,No,Adenocarcinoma,Locally advanced,Stage IV,FALSE,No,Palliative_care,Dead,2018-08-14,2018-04-30,53,0.0,14.3,91.0,71.0,204.0,96.0,2.8
+No,No,Yes,Yes,2,Yes,Adenocarcinoma,Locally advanced,Not known,Not applicable,Simple,Disease Control,Dead,2019-10-16,2018-06-05,68,32.41,0.7,27.0,35.0,108.0,30.0,4.3
+No,No,No,Not known,2,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver & Bone,No,Disease Control,Dead,2018-11-10,2018-04-24,56,27.43,1.2,183.0,77.0,1146.0,993.0,4.1
+No,No,No,Yes,1,Yes,Adenocarcinoma,Incidental,Stage II,Not applicable,Radical,Curative,Live,,2018-04-16,38,32.64,0.9,35.0,52.0,74.0,98.0,4.5
+No,Yes,No,No,1,Yes,Adenocarcinoma,Incidental,Stage III,Not applicable,Radical,Disease Control,Dead,2019-02-12,2018-04-05,65,19.81,0.3,50.0,24.0,55.0,19.0,4.7
+No,No,No,No,2,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,,2018-05-17,55,20.82,,,,,,
+No,No,Yes,No,1,No,Adenocarcinoma,Incidental,Stage IV,Portsite,Simple,Disease Control,Not Known,,2017-10-15,65,27.03,0.8,33.0,76.0,115.0,51.0,4.1
+No,No,No,No,Not known,No,Adenocarcinoma,Metastatic,Stage III,Not applicable,Radical,Disease Control,Not Known,,2018-05-18,29,28.68,0.7,42.0,19.0,58.0,54.0,2.9
+No,No,No,Not known,1,No,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Disease Control,Dead,2018-11-24,2018-05-25,58,21.87,,,,,,
+No,Yes,Yes,No,1,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,,2018-05-08,41,23.57,13.3,179.0,220.0,251.0,345.0,4.6
+No,No,Yes,Not known,1,No,Mucinous adenocarcinoma,Metastatic,Stage IV,"Lung,Bone",Simple,Disease Control,Dead,2019-08-21,2015-07-15,49,24.36,0.5,34.0,57.0,151.0,113.0,4.3
+No,No,No,No,2,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2018-08-06,2018-05-23,50,0.0,1.6,54.0,126.0,444.0,555.0,3.8
+No,Yes,Yes,No,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Not applicable,Radical,Curative,Dead,2019-09-03,2018-04-05,63,23.15,1.9,32.0,29.0,196.0,21.0,4.4
+No,No,Yes,Not known,1,No,Neuroendocrine carcinoma,Incidental,Stage III,Not applicable,Simple,Disease Control,Not Known,,2018-04-09,60,29.25,1.0,28.0,42.0,57.0,34.0,4.0
+Hypothyroidism,No,No,No,1,No,Adenocarcinoma,Incidental,Stage IV,Peritoneum & Omentum,Simple,Disease Control,Dead,2019-10-23,2018-05-28,74,17.81,3.1,72.0,70.0,666.0,516.0,3.4
+No,No,Yes,No,2,Yes,Adenocarcinoma,Incidental,Stage IV,Adrenal gland,Simple,Disease Control,Dead,2018-07-05,2018-05-26,50,26.19,19.5,168.0,126.0,1036.0,201.0,3.7
+No,No,Yes,No,2,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Not Known,,2018-06-15,71,17.51,,,,,,
+No,No,No,No,1,Yes,Adenocarcinoma,Incidental,Stage IV,Liver,Simple,Disease Control,Dead,2018-09-21,2018-05-15,43,20.4,1.2,72.0,170.0,128.0,949.0,3.9
+No,No,No,No,1,No,Adenocarcinoma,Metastatic,Stage IV,Liver & Lungs,No,Disease Control,Dead,2018-11-18,2018-06-26,65,22.89,1.6,109.0,77.0,445.0,450.0,3.9
+No,No,No,Not known,2,No,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Palliative_care,Dead,2018-09-13,2018-06-09,46,24.91,0.7,29.0,40.0,229.0,143.0,4.4
+No,No,Yes,Not known,1,No,Adenocarcinoma,Metastatic,Not known,Not applicable,No,Palliative_care,Dead,,2018-06-29,65,15.73,0.5,57.0,34.0,267.0,85.0,4.0
+No,No,Yes,No,1,No,Adenocarcinoma,Incidental,Stage I,Not applicable,Simple,Disease Control,Not Known,,2018-04-03,82,20.61,,,,,,
+No,Yes,Yes,Not known,1,No,Adenocarcinoma,Locally advanced,Stage IV,Peritoneum & Omentum,No,Palliative_care,Dead,,2018-07-13,62,19.26,1.0,25.0,37.0,136.0,27.0,4.2
+No,No,Yes,No,Not known,Yes,Adenosquamous carcinoma,Locally advanced,Stage IV,Liver,No,Palliative_care,Dead,,2018-07-16,66,16.84,18.7,217.0,201.0,721.0,194.0,4.5
+Hypothyroidism,No,No,No,1,No,Adenocarcinoma,Incidental,Stage IV,Not applicable,Simple,Disease Control,Not Known,,2018-06-26,47,0.0,18.5,139.0,93.0,429.0,168.0,4.6
+No,Yes,Yes,Not known,1,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2018-08-05,2018-07-12,66,28.51,,,,,,
+No,No,No,Not known,1,No,Adenocarcinoma,Locally advanced,Stage IV,Not applicable,No,Palliative_care,Not Known,,2018-07-16,53,28.36,0.8,58.0,67.0,225.0,150.0,4.4
+Hypothyroidism,Yes,Yes,No,1,Yes,Adenocarcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Not Known,,2018-06-21,69,,,,,,,
+No,No,No,No,0,No,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Disease Control,Dead,2020-07-30,2018-07-11,39,31.38,0.2,31.0,53.0,159.0,97.0,4.0
+No,No,No,Not known,2,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2018-08-03,2018-05-23,64,23.57,,,,,,
+No,No,No,Not known,2,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2019-09-21,2018-07-31,41,21.13,1.0,51.0,41.0,351.0,458.0,3.3
+Hypothyroidism,Yes,Yes,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,No,Disease Control,Not Known,,2018-05-26,54,26.38,1.0,75.0,59.0,399.0,894.0,2.9
+No,No,No,Not known,1,No,Others,Metastatic,,FALSE,No,Palliative_care,Dead,2018-08-26,,57,21.08,,,,,,
+Hypothyroidism,No,No,Not known,2,No,Adenosquamous carcinoma,Metastatic,Not known,Not applicable,No,Palliative_care,Dead,,2018-08-10,62,33.98,2.4,320.0,249.0,1066.0,1216.0,4.1
+No,Yes,Yes,Not known,1,No,Adenocarcinoma,Locally advanced,Stage III,Not applicable,Radical,Curative,Dead,2020-03-24,2018-07-28,66,31.06,0.7,29.0,40.0,149.0,45.0,4.6
+No,No,Yes,Not known,1,No,Adenocarcinoma,Metastatic,Stage IV,Not applicable,Simple,Disease Control,Not Known,,2018-03-15,28,18.54,0.6,94.0,187.0,173.0,67.0,4.2
+No,No,No,Not known,2,Yes,Adenocarcinoma,Incidental,Stage IV,Liver,Simple,Disease Control,Dead,2019-05-01,2017-11-10,48,32.66,0.7,63.0,56.0,262.0,943.0,4.3
+Hypothyroidism,No,Yes,No,1,Yes,Adenocarcinoma,Locally advanced,Stage IV,Liver,No,Disease Control,Dead,2019-04-13,2018-06-15,65,23.42,0.6,33.0,94.0,146.0,79.0,2.0
+Hypothyroidism,No,No,No,1,Yes,Adenocarcinoma,Incidental,Stage III,Not applicable,Simple,Disease Control,Live,,2018-08-02,53,19.34,,,,,,
+No,No,No,Not known,2,No,Adenocarcinoma,Locally advanced,Stage IV,Liver,No,Palliative_care,Not Known,,2018-07-28,46,21.08,2.6,148.0,79.0,1675.0,633.0,3.5
+No,No,No,No,1,No,Adenocarcinoma,Metastatic,Stage IV,Liver,Simple,Disease Control,Dead,2019-05-17,2018-08-13,58,33.55,3.8,63.0,101.0,378.0,839.0,3.1
+No,No,No,Not known,2,No,Adenocarcinoma,Metastatic,Stage III,Not applicable,No,Disease Control,Not Known,,2018-08-29,43,19.64,0.2,57.0,42.0,488.0,164.0,3.4
+No,Yes,No,Yes,1,Yes,Adenocarcinoma,Incidental,Stage IV,Not applicable,Simple,Disease Control,Live,,2018-08-17,74,20.41,,,,,,
+No,Yes,Yes,Yes,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2019-09-06,2018-09-11,72,19.14,1.0,34.0,38.0,136.0,47.0,4.6
+No,Yes,Yes,No,1,Yes,Adenocarcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,,,2018-08-05,60,27.11,0.3,22.0,30.0,68.0,42.0,4.9
+No,No,No,Not known,0,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,,,2018-09-01,43,26.49,0.4,34.0,71.0,132.0,45.0,4.3
+No,Yes,Yes,Not known,1,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,,,2018-09-14,56,21.62,16.6,58.0,115.0,233.0,207.0,4.1
+No,No,No,Yes,2,Yes,Adenocarcinoma,Incidental,Stage IV,Liver,Simple,Disease Control,Dead,2019-06-01,2018-09-05,50,22.25,12.1,336.0,91.0,752.0,135.0,3.8
+No,Yes,Yes,No,0,No,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,No,Disease Control,Dead,2019-01-20,2018-10-15,76,0.0,1.7,38.0,65.0,79.0,78.0,3.9
+No,No,Yes,Yes,1,No,Adenocarcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Not Known,,2018-08-16,56,21.79,,,,,,
+No,No,No,Yes,1,Yes,Adenocarcinoma,Incidental,Stage IV,Lungs,Simple,Disease Control,Dead,2020-06-04,2018-09-12,53,16.76,,,,,,
+No,Yes,Yes,Not known,1,No,Neuroendocrine carcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Not Known,,2018-10-01,74,0.0,0.8,75.0,82.0,75.0,85.0,4.4
+No,Yes,No,Not known,1,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,,2018-10-15,68,20.26,,,,,,
+No,No,No,No,2,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2019-09-17,2018-10-15,58,32.43,1.0,38.0,41.0,668.0,889.0,3.9
+No,No,No,No,1,No,Adenocarcinoma,Incidental,Stage II,Not applicable,Radical,Curative,Dead,2020-01-03,2018-09-17,49,24.7,10.5,278.0,142.0,376.0,143.0,4.0
+No,Yes,Yes,No,2,Yes,Adenocarcinoma,Locally advanced,Stage IV,Not applicable,Simple,Disease Control,Not Known,,2018-09-07,53,19.78,20.0,89.0,35.0,390.0,223.0,4.0
+No,Yes,No,No,1,Yes,Adenocarcinoma,Locally advanced,Stage II,Not applicable,Radical,Curative,Live,,2014-11-21,58,21.71,1.0,37.0,32.0,137.0,191.0,3.1
+No,Yes,Yes,No,1,Yes,Adenocarcinoma,Incidental,Stage III,Not applicable,Radical,Curative,Dead,2020-02-18,2018-10-09,65,21.76,16.6,71.0,29.0,206.0,132.0,4.0
+Hypothyroidism,Yes,Yes,Not known,2,Yes,Adenocarcinoma,Incidental,Stage IV,Peritoneum & Omentum,Simple,Disease Control,Dead,2019-04-07,2018-11-11,71,20.3,,,,,,
+No,No,Yes,Not known,2,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2019-02-28,2018-11-22,73,18.25,0.2,31.0,59.0,235.0,111.0,2.7
+No,Yes,Yes,Not known,2,No,Adenocarcinoma,Locally advanced,Stage IV,Adrenal gland,No,Palliative_care,Dead,2020-01-07,2018-12-04,61,23.44,0.4,43.0,33.0,216.0,62.0,4.3
+No,No,Yes,Not known,Not known,No,Adenocarcinoma,Incidental,Stage IV,Peritoneum & Omentum,Simple,Disease Control,Dead,2020-02-01,2018-11-21,52,30.6,0.2,74.0,41.0,79.0,82.0,4.1
+No,No,No,Not known,2,No,Adenocarcinoma,Metastatic,Stage IV,Liver & Lungs,No,Palliative_care,Dead,2019-01-18,2019-01-17,65,17.34,0.7,106.0,83.0,217.0,143.0,3.1
+No,No,No,Not known,1,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2019-03-02,2018-12-12,61,28.63,0.9,68.0,76.0,362.0,527.0,3.8
+Not known,Not known,Not known,Not known,0,Yes,Adenocarcinoma,Incidental,Stage IV,Liver & Lungs,Simple,Disease Control,Not Known,,2018-11-05,38,26.38,0.2,47.0,91.0,78.0,192.0,4.9
+Not known,Not known,Not known,Not known,2,No,Adenocarcinoma,Metastatic,Stage III,Not applicable,No,Disease Control,Dead,2019-11-27,,50,0.0,,,,,,
+Not known,Not known,Not known,No,0,No,Adenocarcinoma,Incidental,Stage II,Not applicable,Simple,Disease Control,Dead,2020-08-24,2018-11-28,48,24.63,,,,,,
+No,No,No,Not known,1,Yes,Neuroendocrine carcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Not Known,,2018-12-18,47,17.27,1.1,46.0,33.0,149.0,994.0,2.9
+No,Yes,Yes,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage III,Not applicable,No,Palliative_care,Dead,,2018-12-15,70,0.0,0.4,37.0,42.0,149.0,85.0,4.0
+No,No,No,Not known,1,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Not Known,,2018-12-03,56,27.79,1.8,44.0,51.0,412.0,313.0,4.1
+No,Yes,Yes,Not known,1,Yes,Adenocarcinoma,Incidental,Stage IV,Peritoneum & Omentum,Simple,Disease Control,Dead,2019-02-01,2016-06-15,62,,,,,,,
+Not known,Not known,Not known,Not known,Not known,Yes,Adenocarcinoma,Locally advanced,Not known,Not applicable,No,Palliative_care,Dead,2018-05-01,2017-11-22,82,,,,,,,
+No,Yes,No,Not known,4,Yes,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,No,Palliative_care,Dead,2018-01-15,2018-01-05,64,,,,,,,
+Not known,Not known,Not known,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Palliative_care,Dead,2018-03-05,2018-01-08,65,,,,,,,
+No,No,No,No,1,No,Adenocarcinoma,Metastatic,Stage IV,Liver,Radical,Curative,Dead,2018-11-15,2016-06-15,60,,,,,,,
+No,Yes,Yes,Not known,3,No,Adenocarcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Dead,2019-08-09,2017-12-15,73,,,,,,,
+No,No,Yes,No,1,Yes,Adenocarcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Dead,2019-01-01,2017-12-22,39,,,,,,,
+No,Yes,Yes,No,Not known,No,Adenocarcinoma,Incidental,Not known,Not applicable,Radical,Disease Control,Live,,2017-11-24,70,0.0,,,,,,
+No,No,No,No,1,No,Adenocarcinoma,Metastatic,Stage IV,Lungs,No,Palliative_care,Not Known,,2018-01-01,57,21.33,15.1,220.0,100.0,795.0,545.0,3.5
+No,No,No,Not known,3,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Not Known,,2017-10-15,66,,,,,,,
+No,Yes,Yes,No,Not known,Yes,Adenocarcinoma,Metastatic,Stage III,Not applicable,No,Palliative_care,Dead,2018-11-23,2018-01-10,67,,,,,,,
+No,No,Yes,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Lungs,No,Disease Control,Dead,2018-05-10,2017-08-15,61,21.98,4.7,39.0,33.0,174.0,489.0,2.1
+No,No,Yes,No,3,No,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,No,Disease Control,Dead,2018-03-01,2018-01-15,68,,,,,,,
+Not known,Not known,Not known,Not known,Not known,No,Adenocarcinoma,Incidental,Stage III,Not applicable,Simple,Disease Control,Not Known,,2017-12-29,56,,,,,,,
+No,No,No,Not known,1,Yes,Adenocarcinoma,Locally advanced,Stage IV,Not applicable,No,Palliative_care,Not Known,,2018-01-19,65,21.45,2.1,162.0,285.0,437.0,289.0,3.7
+No,Yes,Yes,Not known,3,No,Others,Metastatic,Stage IV,Liver & Bone,No,Palliative_care,Dead,2018-03-15,2018-01-30,68,20.57,,,,,,
+No,Yes,No,Not known,3,Yes,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,No,Palliative_care,Dead,2018-10-01,2018-01-23,65,0.0,,,,,,
+No,No,No,Not known,2,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Not Known,,2017-09-15,61,26.9,,,,,,
+No,No,No,Not known,2,No,Carcinoma,Metastatic,Stage IV,Not applicable,No,Palliative_care,Not Known,,2017-01-02,68,21.55,,,,,,
+Not known,Not known,Not known,Not known,1,Yes,Adenocarcinoma,Incidental,Stage IV,Not applicable,Simple,Disease Control,Dead,2018-12-28,2017-12-11,65,21.23,,,,,,
+Not known,Not known,Not known,Not known,Not known,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2018-10-01,2018-02-05,70,,,,,,,
+No,No,No,Not known,1,No,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Palliative_care,Dead,2018-06-15,2017-12-15,55,,,,,,,
+No,Yes,Yes,No,1,No,Adenocarcinoma,Metastatic,Stage III,Not applicable,No,Palliative_care,Not Known,,2017-11-23,62,0.0,,,,,,
+Not known,Not known,Not known,Not known,Not known,No,Adenosquamous carcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Dead,2018-06-18,2017-09-15,45,,,,,,,
+Not known,Not known,Not known,No,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver & Lungs,No,Palliative_care,Dead,,2018-02-19,59,22.31,1.5,43.0,59.0,109.0,27.0,4.0
+No,No,No,Yes,1,No,Adenocarcinoma,Incidental,Stage IV,Portsite,Simple,Disease Control,Dead,2020-02-17,2016-09-24,42,26.04,0.5,76.0,75.0,173.0,415.0,4.4
+No,No,Yes,No,4,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2018-02-17,2018-01-25,45,0.0,,,,,,
+Not known,Not known,Not known,Not known,2,No,Adenocarcinoma,Incidental,Stage IV,Lungs,Simple,Disease Control,Dead,2018-03-18,2017-09-15,38,24.25,16.6,153.0,83.0,810.0,469.0,3.4
+No,No,No,No,1,No,Adenocarcinoma,Metastatic,Not known,Pancreas,Simple,Disease Control,Dead,2018-08-15,2016-03-15,31,,,,,,,
+Not known,Not known,Not known,Not known,Not known,Yes,Adenocarcinoma,Metastatic,Stage IV,Pancreas,Simple,Disease Control,Dead,2018-12-01,2010-10-15,60,,,,,,,
+Not known,Not known,Not known,Not known,2,No,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Disease Control,Not Known,,2017-01-15,34,18.96,,,,,,
+No,No,No,No,1,Yes,Adenocarcinoma,Incidental,Stage IV,Liver,Simple,Disease Control,Dead,2018-11-01,2017-10-15,69,16.77,1.9,60.0,49.0,176.0,37.0,4.6
+Not known,Not known,Not known,Not known,1,No,Adenocarcinoma,Locally advanced,Stage IV,Not applicable,No,Disease Control,Dead,2020-01-14,2017-12-15,52,28.32,0.5,80.0,24.0,80.0,105.0,3.3
+Not known,Not known,Not known,Not known,4,No,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Palliative_care,Not Known,,2018-03-10,68,0.0,,,,,,
+No,No,No,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Palliative_care,Dead,2018-05-15,2018-02-20,53,22.03,1.1,94.0,119.0,287.0,282.0,3.7
+Not known,Not known,Not known,Not known,1,No,Adenocarcinoma,Locally advanced,Stage IV,Liver,No,Disease Control,Dead,2019-04-15,2018-03-23,43,23.75,0.3,38.0,13.0,92.0,114.0,4.4
+No,No,Yes,Not known,2,No,Adenocarcinoma,Metastatic,Stage IV,Liver,Radical,Disease Control,Dead,2018-05-22,2017-02-15,46,24.4,7.2,100.0,104.0,780.0,684.0,3.0
+No,No,Yes,No,1,No,Adenosquamous carcinoma,Locally advanced,Stage IV,Lungs,No,,Dead,2018-12-12,2018-03-21,58,19.38,13.7,37.0,15.0,266.0,62.0,3.7
+No,No,Yes,Not known,3,No,Neuroendocrine carcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2018-04-24,2017-07-15,69,,,,,,,
+No,No,No,Not known,1,No,Adenocarcinoma,Metastatic,Stage III,Not applicable,No,Disease Control,Not Known,,2018-03-15,41,21.74,2.4,76.0,136.0,341.0,560.0,3.6
+Not known,Not known,Not known,Not known,Not known,No,Adenocarcinoma,Metastatic,Stage III,Not applicable,Radical,Curative,Dead,2018-05-15,2017-06-15,63,,,,,,,
+Not known,Not known,Not known,Not known,3,Not known,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,Simple,Disease Control,Not Known,,2018-01-15,39,26.27,12.4,404.0,127.0,2052.0,1200.0,2.7
+Not known,Not known,Not known,Not known,Not known,No,Adenocarcinoma,Locally advanced,Stage IV,Not applicable,No,Palliative_care,Dead,2018-06-15,2018-04-24,58,,,,,,,
+No,No,No,Not known,1,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2019-05-12,2018-04-12,56,19.95,,,,,,
+No,Yes,Yes,Not known,1,Yes,Adenocarcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Live,,2018-03-26,52,,,,,,,
+No,Yes,Yes,No,1,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2018-07-26,2018-04-19,60,,,,,,,
+No,Yes,No,No,1,No,Adenocarcinoma,Locally advanced,Not known,Not applicable,Simple,Disease Control,Not Known,,2018-01-23,60,,,,,,,
+No,No,No,No,1,No,Adenocarcinoma,Locally advanced,Stage IV,Ovary & Uterus,No,Palliative_care,Dead,2018-06-15,2018-05-15,33,16.91,0.7,25.0,30.0,73.0,16.0,4.5
+Not known,Not known,Not known,Not known,3,No,Carcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2018-07-24,2018-05-25,53,,,,,,,
+No,Yes,Yes,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,No,Palliative_care,Dead,2018-07-15,2018-03-16,63,,,,,,,
+Not known,Not known,Not known,Not known,2,Yes,Adenocarcinoma,Locally advanced,Not known,Not applicable,No,Palliative_care,Not Known,,2018-03-10,57,,13.2,43.0,60.0,536.0,223.0,3.1
+No,No,No,Not known,3,No,Adenocarcinoma,Incidental,Stage IV,Lungs,Simple,Disease Control,Dead,2020-02-15,2018-03-19,70,,,,,,,
+No,No,No,Not known,4,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2018-12-16,2018-05-15,61,18.61,,,,,,
+No,No,No,Not known,2,No,Adenocarcinoma,Not known,Not known,Not applicable,Simple,Disease Control,Not Known,,2018-06-12,48,,,,,,,
+No,No,No,Not known,1,No,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Palliative_care,Dead,2019-01-01,2018-06-13,48,23.05,,,,,,
+Not known,Not known,Not known,Not known,Not known,No,Mucinous adenocarcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Not Known,,2018-04-05,51,30.95,3.6,164.0,184.0,166.0,493.0,4.3
+Not known,Not known,Not known,Not known,2,No,Carcinoma,Incidental,Stage IV,Not applicable,Simple,Disease Control,Dead,2018-08-23,2018-06-27,59,19.95,,,,,,
+Not known,Not known,Yes,Not known,1,No,Adenocarcinoma,Metastatic,Stage IV,Liver,Simple,Disease Control,Dead,2020-03-17,2018-06-25,56,,,,,,,
+Not known,Not known,Not known,Not known,3,No,Adenocarcinoma,Metastatic,Stage IV,Lungs,No,Disease Control,Dead,2018-07-22,2017-11-15,31,,,,,,,
+No,Yes,No,No,1,No,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Palliative_care,Dead,2018-09-06,2018-07-03,55,21.48,,,,,,
+Hypothyroidism,No,No,No,1,Yes,Adenocarcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Not Known,,2018-06-21,45,,,,,,,
+No,No,Yes,No,1,Yes,Adenocarcinoma,Incidental,Not known,Not applicable,Radical,Disease Control,Live,,2018-03-24,48,,,,,,,
+No,No,Yes,Not known,2,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2018-07-15,2018-06-25,51,28.0,,,,,,
+Not known,Not known,Not known,No,4,No,Adenocarcinoma,Metastatic,Not known,Not applicable,Radical,Disease Control,Dead,2018-07-15,2017-11-15,59,,,,,,,
+Not known,Not known,Not known,Not known,1,No,Carcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2018-07-15,2018-07-13,46,,,,,,,
+Not known,Not known,Not known,Not known,4,No,Adenocarcinoma,Incidental,Not known,Not known,Simple,Disease Control,Dead,2018-07-15,2017-12-15,53,,,,,,,
+Not known,Not known,Not known,Not known,2,No,Adenocarcinoma,Metastatic,Not known,Not known,Simple,Disease Control,Dead,2019-11-19,2018-03-15,61,,,,,,,
+No,No,No,No,1,No,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Palliative_care,Dead,2018-10-15,2018-07-16,52,,,,,,,
+No,No,No,Not known,3,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2018-08-15,2018-07-16,70,16.44,,,,,,
+No,No,No,Not known,1,Yes,Adenocarcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Live,,2017-09-20,23,,,,,,,
+No,No,No,No,1,Yes,Adenocarcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Live,,2018-07-05,37,0.0,1.2,38.0,67.0,91.0,53.0,4.5
+Not known,Not known,Not known,Not known,2,No,Carcinoma,Metastatic,Stage IV,Lungs,No,Disease Control,Dead,2019-01-15,2016-09-15,56,,,,,,,
+No,No,Yes,Not known,1,Not known,Adenocarcinoma,Incidental,Not known,Portsite,Simple,Disease Control,Dead,2019-05-15,2010-06-15,71,,,,,,,
+Not known,Not known,Not known,Not known,2,Not known,Adenocarcinoma,Incidental,Stage IV,Peritoneum & Omentum,Radical,Disease Control,Dead,2019-12-03,2017-08-15,70,24.25,,,,,,
+Not known,Not known,Not known,Not known,4,Not known,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,No,Palliative_care,Dead,2020-01-15,2018-03-15,79,,,,,,,
+No,No,Yes,Not known,2,No,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,No,Palliative_care,Not Known,,2018-07-27,64,24.11,,,,,,
+No,No,No,Not known,3,Yes,Adenocarcinoma,Incidental,Stage IV,Peritoneum & Omentum,Simple,Disease Control,Dead,2019-01-15,2018-05-16,53,18.12,0.5,54.0,107.0,107.0,32.0,3.7
+No,No,No,Not known,4,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2018-08-15,2018-07-25,84,,,,,,,
+Not known,Not known,Not known,Not known,2,No,Neuroendocrine carcinoma,Metastatic,Stage IV,Right hypochondrium,No,Palliative_care,Dead,2018-10-20,2018-08-07,56,28.28,10.6,105.0,104.0,650.0,301.0,4.0
+Not known,Not known,Not known,Not known,1,No,Adenocarcinoma,Locally advanced,Not known,Not applicable,No,Palliative_care,Live,,2018-08-03,49,,,,,,,
+No,No,No,Not known,1,No,Carcinoma,Locally advanced,Stage IV,Adrenal gland,No,Palliative_care,Not Known,,2018-08-10,60,18.74,16.0,90.0,125.0,802.0,183.0,4.0
+No,No,No,No,2,Yes,Adenocarcinoma,Metastatic,Stage III,Not applicable,No,Palliative_care,Dead,2020-06-15,2018-07-18,51,21.27,,,,,,
+Not known,Not known,Not known,Not known,Not known,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,Simple,Disease Control,Not Known,,2017-10-15,60,24.52,1.2,34.0,31.0,99.0,33.0,4.2
+No,No,No,Not known,Not known,No,Adenocarcinoma,Locally advanced,Stage IV,Lungs,No,Palliative_care,Dead,2019-01-19,2018-08-13,64,23.25,8.2,97.0,51.0,278.0,85.0,3.8
+No,No,No,No,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Bone,No,Palliative_care,Not Known,,2018-07-26,66,0.0,22.8,148.0,106.0,1286.0,718.0,3.3
+Not known,Not known,Not known,Not known,2,No,Adenocarcinoma,Metastatic,Stage IV,Liver,Radical,Curative,Not Known,,2017-08-24,55,27.6,8.4,67.0,88.0,239.0,288.0,3.8
+No,Yes,No,Not known,3,No,Adenocarcinoma,Metastatic,Not known,Not applicable,No,Palliative_care,Dead,2018-11-30,2018-08-14,65,,,,,,,
+No,No,Yes,No,1,Yes,Adenocarcinoma,Metastatic,Not known,Not applicable,No,Disease Control,Dead,2020-01-26,2018-08-11,64,23.59,0.5,217.0,192.0,141.0,14.0,4.6
+Not known,Not known,Not known,Not known,2,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2018-09-15,2018-08-20,56,,,,,,,
+Not known,Not known,Not known,Not known,3,No,Others,Locally advanced,Stage IV,Right hypochondrium,No,Palliative_care,Dead,2018-09-15,2018-07-26,58,18.75,,,,,,
+Not known,Not known,Not known,Not known,Not known,No,Carcinoma,Locally advanced,Stage IV,Not applicable,No,Palliative_care,Dead,2019-02-15,2018-08-21,66,,,,,,,
+No,No,No,Not known,1,No,Carcinoma,Locally advanced,Stage IV,Liver,No,Palliative_care,Dead,2019-01-15,2018-08-07,63,,,,,,,
+Not known,Not known,Not known,Not known,Not known,No,Carcinoma,Metastatic,Stage III,Not applicable,No,Palliative_care,Dead,2018-09-02,2018-01-15,63,,,,,,,
+No,Yes,Yes,Not known,1,No,Carcinoma,Locally advanced,Stage IV,Not applicable,No,Palliative_care,Dead,2019-12-04,2018-08-24,45,25.82,2.5,72.0,94.0,453.0,362.0,4.1
+No,Yes,Yes,No,2,No,Adenocarcinoma,Locally advanced,Stage IV,Not applicable,No,Palliative_care,Dead,2018-09-20,2018-07-15,75,24.48,3.1,38.0,40.0,241.0,118.0,2.3
+Not known,Not known,Not known,Not known,3,No,Adenosquamous carcinoma,Incidental,Stage IV,Right hypochondrium,Simple,Disease Control,Not Known,,2018-08-28,48,,,,,,,
+No,No,Yes,Not known,1,Yes,Adenocarcinoma,Incidental,Stage IV,Liver,Simple,Disease Control,Dead,2019-01-02,2018-08-18,64,,,,,,,
+No,No,No,No,1,No,Adenocarcinoma,Metastatic,Stage III,Not applicable,Radical,Curative,Not Known,,2018-08-20,52,24.22,1.1,33.0,37.0,119.0,11.0,4.6
+Not known,Not known,Not known,Yes,1,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Not Known,,2020-11-13,60,24.84,0.4,26.0,19.0,145.0,105.0,4.1
+No,No,Yes,Not known,1,No,Adenocarcinoma,Incidental,Stage IV,Liver,Simple,Disease Control,Not Known,,2018-02-23,54,,,,,,,
+No,No,Yes,Yes,2,No,Others,Incidental,Stage IV,Liver & Bone,Simple,Disease Control,Dead,2019-02-27,2018-08-25,66,21.64,28.9,76.0,54.0,393.0,127.0,2.6
+No,No,No,No,1,Yes,Adenocarcinoma,Incidental,Stage IV,Not applicable,Simple,Disease Control,Dead,2018-11-05,2018-08-25,56,21.29,8.9,164.0,141.0,400.0,273.0,3.9
+No,No,No,No,2,Yes,Adenocarcinoma,Locally advanced,Stage IV,Not applicable,No,Palliative_care,Not Known,,2018-08-06,48,15.86,10.8,209.0,96.0,2740.0,993.0,2.4
+No,No,Yes,Not known,3,Yes,Adenocarcinoma,Incidental,Stage IV,Peritoneum & Omentum,Simple,Disease Control,Dead,2018-10-15,2018-09-02,62,27.75,0.4,41.0,40.0,289.0,36.0,3.1
+Not known,Not known,Not known,Not known,Not known,Not known,Adenocarcinoma,Metastatic,Not known,Not applicable,No,Palliative_care,Dead,2019-06-15,2018-06-15,70,,,,,,,
+Not known,Not known,Not known,Not known,Not known,Not known,Carcinoma,Metastatic,Not known,Not applicable,Simple,Disease Control,Dead,2018-12-15,2018-09-18,63,,,,,,,
+No,Yes,No,No,1,No,Adenocarcinoma,Metastatic,Stage III,Not applicable,No,Disease Control,Dead,2019-09-29,2018-09-13,63,26.99,0.6,37.0,111.0,188.0,85.0,3.5
+No,No,No,No,1,Yes,Adenocarcinoma,Incidental,Stage III,Not applicable,Simple,Disease Control,Dead,2019-06-15,2018-08-09,68,0.0,,,,,,
+Not known,Not known,Not known,Yes,1,No,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Palliative_care,Dead,2019-06-15,2018-09-18,48,24.68,,,,,,
+No,No,No,Yes,2,Yes,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,Simple,Disease Control,Not Known,,2018-03-15,66,,,,,,,
+No,Yes,No,Not known,3,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2019-06-15,2018-10-10,58,24.6,3.4,82.0,88.0,1038.0,1095.0,3.2
+No,No,No,Not known,3,No,Adenocarcinoma,Metastatic,Stage IV,Brain,No,Palliative_care,Dead,2018-11-27,2018-05-15,53,,,,,,,
+No,No,No,Not known,3,No,Adenosquamous carcinoma,Locally advanced,Stage IV,Liver,No,Palliative_care,Dead,2018-11-07,2018-10-16,64,,,,,,,
+No,Yes,No,No,3,No,Adenocarcinoma,Incidental,Stage IV,Liver,Simple,Disease Control,Dead,2018-11-02,2018-10-07,55,20.7,5.0,175.0,210.0,1488.0,917.0,3.9
+No,No,Yes,Yes,1,No,Adenocarcinoma,Metastatic,Not known,Not applicable,Radical,Disease Control,Live,,2018-09-15,61,20.82,,,,,,
+No,No,No,Not known,3,No,Adenocarcinoma,Locally advanced,Not known,Not applicable,No,Palliative_care,Dead,2018-11-26,2018-11-07,47,19.07,1.9,684.0,30.0,271.0,89.0,2.5
+No,No,No,No,1,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Not Known,,2018-09-19,34,20.35,4.6,42.0,45.0,315.0,130.0,2.8
+No,Yes,No,Not known,2,No,Others,Metastatic,Stage IV,Peritoneum & Omentum,No,Palliative_care,Not Known,,2018-11-16,69,,,,,,,
+Hypothyroidism,No,No,No,1,Yes,Adenocarcinoma,Locally advanced,Stage IV,Not applicable,No,Palliative_care,Dead,2019-10-28,2019-04-30,64,25.93,,,,,,
+No,No,No,No,1,No,Adenocarcinoma,Metastatic,Stage III,Not applicable,Simple,Disease Control,Not Known,,2018-10-15,26,21.22,21.5,46.0,46.0,384.0,51.0,4.8
+No,No,No,No,1,Yes,Adenocarcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Not Known,,2018-11-17,46,20.17,0.4,37.0,45.0,130.0,40.0,4.4
+No,No,No,No,2,Yes,Others,Incidental,Stage 0,Not applicable,Simple,Disease Control,Not Known,,2018-09-09,60,22.13,1.1,32.0,35.0,106.0,40.0,4.6
+No,No,No,No,4,No,Adenocarcinoma,Metastatic,Stage III,Not applicable,No,Palliative_care,Dead,2018-12-07,2018-11-14,63,15.9,,,,,,
+No,No,No,Not known,1,No,Adenocarcinoma,Metastatic,Stage IV,Liver & Lungs,No,Palliative_care,Dead,2019-06-15,2018-05-15,41,22.93,11.6,499.0,476.0,1135.0,556.0,4.2
+No,Yes,No,No,,No,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Disease Control,Dead,2020-10-06,2018-09-12,57,23.19,,,,,,
+No,No,No,No,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Lungs,No,Palliative_care,Not Known,,2018-11-16,52,,,,,,,
+No,No,No,Not known,Not known,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Not Known,,2018-12-03,56,,,,,,,
+No,No,No,Not known,1,Yes,Adenocarcinoma,Incidental,Stage IV,Peritoneum & Omentum,Simple,Disease Control,Dead,2020-11-06,2018-11-21,61,28.77,,,,,,
+No,No,Yes,Not known,1,Not known,Adenocarcinoma,Incidental,Stage III,Not applicable,No,Disease Control,Live,,2018-12-03,74,22.23,1.1,26.0,24.0,89.0,20.0,3.8
+Not known,Not known,Not known,Not known,Not known,No,Adenocarcinoma,Locally advanced,Stage IV,Liver,No,Palliative_care,Dead,2019-01-06,2018-11-20,42,,,,,,,
+No,No,Yes,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2019-01-15,2018-12-04,59,23.76,12.7,87.0,64.0,573.0,144.0,3.4
+No,No,No,No,3,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2018-12-15,2018-09-02,44,25.3,,,,,,
+No,No,Yes,Not known,Not known,No,Adenocarcinoma,Metastatic,Not known,Not applicable,Radical,Disease Control,Live,,2018-11-13,48,,,,,,,
+No,No,No,Not known,1,No,Carcinoma,Metastatic,Stage IV,Lungs,No,Palliative_care,Not Known,,2018-10-23,45,17.54,21.0,241.0,149.0,838.0,232.0,3.0
+No,No,No,No,1,Not known,Adenocarcinoma,Incidental,Stage IV,Liver & Bone,Simple,Disease Control,Dead,2019-03-15,2017-07-15,61,19.28,1.0,85.0,83.0,461.0,287.0,4.5
+No,No,Yes,No,4,Yes,Adenocarcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Dead,2019-04-15,2017-05-30,67,,,,,,,
+Not known,Not known,Not known,Not known,2,Yes,Adenocarcinoma,,Stage IV,Liver & Bone,Radical,Curative,Dead,2019-07-19,2018-11-17,67,21.3,0.3,22.0,17.0,91.0,41.0,4.1
+Not known,Not known,Yes,Yes,1,Not known,Adenocarcinoma,,Stage III,Not applicable,Radical,Curative,Dead,2019-10-15,2018-12-24,73,22.05,0.3,39.0,80.0,146.0,132.0,4.3
+No,No,Yes,No,0,No,Adenocarcinoma,Incidental,Not known,Not applicable,Radical,Curative,,,2018-10-15,57,23.77,0.5,35.0,33.0,59.0,14.0,4.4
+No,No,No,Not known,1,No,Adenocarcinoma,Locally advanced,Stage IV,Peritoneum & Omentum,No,Disease Control,Dead,2020-01-20,2019-01-08,62,27.38,1.3,126.0,154.0,128.0,201.0,4.1
+No,No,No,No,1,Yes,ICPN with invasive carcinoma,Incidental,Not known,Not applicable,Partial,Disease Control,Dead,2020-09-10,2018-11-30,56,27.79,0.7,26.0,27.0,128.0,38.0,4.2
+No,No,No,Not known,1,Yes,Adenocarcinoma,Locally advanced,Stage III,Not applicable,No,Disease Control,,,2018-11-26,68,20.42,0.4,31.0,33.0,106.0,22.0,4.9
+No,No,Yes,Yes,1,Yes,Mucinous adenocarcinoma,Incidental,Stage IV,Lungs,Simple,Disease Control,,,2018-10-02,60,0.0,7.9,272.0,360.0,757.0,1894.0,4.1
+No,Yes,No,No,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Disease Control,Dead,2019-12-21,2019-01-10,59,26.53,24.3,36.0,34.0,314.0,99.0,3.0
+No,No,No,No,4,Not known,Others,Metastatic,Stage IV,Stomach & Intestine,Radical,Curative,,,2017-12-14,49,0.0,,,,,,
+No,No,No,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage III,Not applicable,No,Disease Control,Dead,2019-03-12,2019-01-05,65,20.53,0.9,55.0,56.0,144.0,40.0,4.5
+No,Yes,Yes,No,1,Not known,MiNEN,Locally advanced,Stage IV,Not applicable,No,Disease Control,,,2019-01-12,54,24.19,0.6,23.0,44.0,130.0,233.0,4.6
+No,No,No,No,1,Not known,Adenocarcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Dead,2019-07-15,2018-12-11,51,14.68,7.2,734.0,779.0,617.0,453.0,4.4
+No,No,No,Yes,1,Not known,Adenocarcinoma,,Not known,Not applicable,Simple,Disease Control,Dead,2019-11-27,2018-12-16,47,22.33,0.3,32.0,19.0,248.0,220.0,4.1
+No,Not known,No,Yes,1,Yes,Adenosquamous carcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2019-04-19,2019-01-16,61,20.59,0.5,54.0,37.0,133.0,46.0,3.3
+No,Yes,Yes,No,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,,,2018-12-26,64,25.53,1.3,110.0,78.0,75.0,122.0,3.6
+No,No,No,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Lungs,No,Disease Control,Dead,2019-07-15,2019-01-22,45,17.27,2.0,70.0,72.0,240.0,159.0,4.0
+No,No,No,Not known,1,Yes,Adenosquamous carcinoma,,Stage IV,Not applicable,No,Disease Control,Dead,2020-07-15,2019-01-10,64,24.61,2.1,52.0,57.0,234.0,106.0,3.9
+No,No,No,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2019-02-28,2019-01-17,51,24.41,33.4,172.0,85.0,590.0,235.0,2.9
+No,No,No,No,1,Yes,Adenocarcinoma,Incidental,Stage IV,Liver,Simple,Disease Control,,,2018-12-28,63,18.31,0.8,65.0,40.0,247.0,87.0,4.5
+No,Yes,No,No,1,Not known,Carcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2019-03-15,2019-02-03,42,20.51,0.5,84.0,77.0,208.0,347.0,4.6
+No,No,Yes,No,1,Yes,Adenocarcinoma,Incidental,Stage IV,Liver,Simple,Disease Control,Dead,2019-05-11,2018-12-25,54,26.51,1.1,100.0,159.0,352.0,355.0,4.6
+Not known,Not known,Not known,Not known,Not known,Not known,Adenocarcinoma,Metastatic,Stage IV,Bone,Simple,Disease Control,,,2018-09-13,50,29.09,0.3,20.0,14.0,280.0,27.0,4.1
+Not known,Not known,Not known,Not known,1,Yes,Adenocarcinoma,Incidental,Stage IV,Stomach & Intestine,Simple,Disease Control,Dead,2019-07-15,2018-10-04,50,16.35,3.1,25.0,26.0,799.0,215.0,2.2
+Not known,Not known,Yes,Not known,2,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2020-02-27,2019-02-18,63,40.17,0.3,30.0,58.0,73.0,57.0,2.6
+No,No,Yes,Yes,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2019-04-17,2019-02-19,57,21.78,0.7,98.0,98.0,1292.0,877.0,3.7
+No,No,No,No,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2019-04-11,2019-02-06,50,20.92,1.5,215.0,100.0,898.0,323.0,4.1
+No,No,Yes,Not known,2,Not known,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Disease Control,Dead,2019-05-15,2019-02-26,56,20.02,0.6,166.0,192.0,872.0,648.0,4.6
+No,Yes,No,Not known,0,Not known,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,No,Disease Control,,,2019-02-15,47,22.54,0.4,67.0,73.0,683.0,903.0,4.7
+No,No,No,Not known,1,Yes,Adenocarcinoma,,Stage II,Not applicable,Simple,Disease Control,Alive,,2019-02-06,58,35.49,,,,,,
+No,No,No,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2019-03-15,2019-03-03,40,27.76,,,,,,
+Hypothyroidism,Yes,No,No,1,Not known,Adenocarcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Dead,2020-03-19,2019-01-04,48,,,,,,,
+No,Yes,Yes,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Palliative_care,Dead,2019-10-12,2019-03-11,59,23.07,8.3,45.0,112.0,195.0,181.0,4.6
+No,Yes,Yes,Not known,2,No,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Palliative_care,,,2019-02-27,62,20.4,4.5,140.0,87.0,642.0,446.0,3.6
+No,No,No,No,2,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,,,2019-01-31,62,15.73,0.7,23.0,16.0,166.0,139.0,4.0
+No,Yes,Yes,Yes,1,Not known,Adenocarcinoma,Locally advanced,Stage III,Not applicable,No,Disease Control,Dead,2019-12-18,2019-03-16,57,18.77,0.5,67.0,124.0,86.0,121.0,3.5
+No,No,No,No,1,No,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2020-12-20,2019-03-26,53,25.09,0.2,52.0,39.0,337.0,110.0,3.7
+No,Yes,No,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2019-08-15,2019-02-13,61,21.0,20.6,161.0,86.0,852.0,322.0,3.5
+No,Yes,No,No,1,Yes,Adenocarcinoma,Locally advanced,Stage III,Not applicable,No,Disease Control,Dead,2020-02-20,2019-05-21,66,21.38,3.7,63.0,438.0,237.0,676.0,3.3
+No,No,No,No,1,Not known,Adenocarcinoma,Locally advanced,Stage II,Not applicable,Simple,Disease Control,,,2019-03-09,50,19.91,0.7,32.0,40.0,156.0,21.0,4.8
+Not known,Not known,Not known,Not known,2,Not known,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Disease Control,Dead,2020-08-21,2019-04-03,70,17.36,4.8,72.0,55.0,313.0,313.0,3.3
+No,No,No,No,1,Not known,Adenocarcinoma,Incidental,Stage IV,Liver,Simple,Disease Control,,,2019-03-13,47,19.13,0.3,32.0,28.0,81.0,36.0,3.7
+No,No,Yes,No,1,Yes,Adenocarcinoma,Incidental,Stage IV,Stomach & Intestine,Simple,Disease Control,Dead,2019-10-16,2019-03-13,49,28.01,0.8,288.0,47.0,88.0,24.0,4.3
+Not known,Not known,Not known,Not known,2,Not known,Adenocarcinoma,Metastatic,Stage IV,,No,Disease Control,,,2019-04-09,47,27.08,,,,,,
+No,No,Yes,Not known,4,Yes,Adenocarcinoma,Metastatic,Stage IV,Portsite,No,Palliative_care,Dead,2019-05-23,2019-04-12,57,0.0,0.5,47.0,38.0,221.0,247.0,3.0
+No,No,No,No,0,Yes,Adenocarcinoma,Incidental,Stage IV,Liver,Simple,Disease Control,Dead,2019-08-13,2019-03-30,52,27.98,0.3,25.0,25.0,135.0,66.0,4.4
+No,No,Yes,No,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Disease Control,Dead,,2019-04-17,50,24.8,0.2,21.0,21.0,87.0,32.0,4.2
+Not known,Not known,Not known,Not known,1,Not known,Neuroendocrine carcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2019-08-07,2019-04-23,54,24.54,19.6,131.0,64.0,495.0,266.0,3.8
+No,Yes,No,No,3,Not known,Carcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,,,2019-04-15,64,0.0,,,,,,
+Hypothyroidism,No,No,Not known,0,Not known,Adenocarcinoma,Locally advanced,Stage IV,Liver,Radical,Curative,Dead,2019-10-17,2018-02-15,70,22.77,,,,,,
+No,Yes,No,No,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Not applicable,Simple,Disease Control,Dead,2020-12-15,2019-03-01,47,26.38,0.3,25.0,26.0,82.0,53.0,3.5
+No,Yes,Yes,No,1,Yes,Adenocarcinoma,Incidental,Stage IV,Lungs,Simple,Disease Control,Dead,2019-10-21,2019-03-26,59,23.55,0.5,29.0,37.0,127.0,26.0,4.3
+No,No,No,No,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Disease Control,Dead,2020-03-31,2019-05-06,43,45.28,3.2,42.0,53.0,1475.0,2084.0,2.7
+No,Yes,Yes,No,1,Yes,Adenocarcinoma,Incidental,Stage II,Not applicable,Simple,Disease Control,Dead,2019-06-15,2019-04-13,72,0.0,0.6,55.0,44.0,548.0,517.0,3.0
+No,No,No,No,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Disease Control,,,2019-05-08,45,19.06,1.6,55.0,59.0,97.0,173.0,3.5
+No,No,No,No,1,Yes,Carcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Dead,2020-06-22,2019-04-30,64,19.4,0.7,428.0,266.0,676.0,1194.0,4.2
+No,Yes,No,No,1,Not known,Others,Metastatic,Stage IV,Peritoneum & Omentum,No,Disease Control,,,2019-04-18,60,22.7,1.6,202.0,294.0,1497.0,1067.0,4.2
+No,No,No,Yes,2,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2019-08-01,2019-05-17,69,18.85,0.6,46.0,43.0,206.0,99.0,3.8
+No,Yes,No,No,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,No,Disease Control,Dead,2020-01-08,2019-05-15,49,35.28,0.8,33.0,,83.0,109.0,3.8
+No,No,No,No,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2019-07-22,2019-05-14,57,0.0,19.2,66.0,20.0,434.0,90.0,3.2
+No,Yes,Yes,Not known,1,Not known,Adenocarcinoma,Incidental,Stage IV,Liver,Simple,Disease Control,Dead,2019-08-14,2019-04-29,52,24.39,1.6,279.0,261.0,571.0,310.0,4.4
+No,Yes,No,Not known,2,Yes,Adenocarcinoma,Incidental,Stage IV,Lungs,Simple,Disease Control,Dead,2020-04-17,2019-05-24,68,18.59,0.4,92.0,25.0,202.0,495.0,3.4
+No,No,No,No,2,Not known,Adenocarcinoma,Incidental,Stage IV,Liver,Simple,Disease Control,,,2019-02-22,47,14.11,0.1,21.0,21.0,113.0,228.0,3.5
+No,Yes,Yes,No,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2019-07-27,2019-05-22,67,26.7,0.8,32.0,22.0,133.0,80.0,3.9
+No,No,No,No,1,Yes,Adenocarcinoma,Locally advanced,Stage III,Not applicable,Radical,Curative,Alive,,2019-05-10,55,20.32,0.4,34.0,30.0,105.0,71.0,4.6
+No,Yes,No,Yes,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Disease Control,Dead,2020-08-06,2019-04-29,59,22.42,0.3,21.0,31.0,195.0,40.0,3.9
+No,No,No,No,1,Yes,Adenocarcinoma,Incidental,Stage IV,Liver,Simple,Disease Control,,,2019-05-01,68,20.95,0.8,29.0,21.0,98.0,28.0,4.2
+No,No,No,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Lungs,No,Disease Control,Alive,,2019-06-06,54,27.81,,,,,,
+Hypothyroidism,No,Yes,No,1,Not known,Adenocarcinoma,Incidental,Stage II,Not applicable,Simple,Disease Control,Alive,,2019-05-15,72,18.49,0.5,22.0,21.0,93.0,12.0,4.2
+No,No,No,Yes,1,Not known,Adenocarcinoma,Incidental,Stage II,Not applicable,Simple,Disease Control,,,2019-02-24,37,27.06,0.2,21.0,13.0,62.0,26.0,4.5
+No,No,No,No,0,Yes,Adenocarcinoma,Metastatic,Stage IV,Ovary & Uterus,Simple,Disease Control,Dead,2021-03-15,2019-01-15,47,22.58,,,,,,
+No,No,No,Yes,1,Polyp,Adenocarcinoma,Incidental,Stage II,Not applicable,Radical,Curative,,,2019-07-22,55,31.99,0.6,20.0,19.0,53.0,16.0,4.3
+Hypothyroidism,Yes,Yes,Not known,1,Not known,Neuroendocrine carcinoma,,Stage IV,Liver,No,Disease Control,Dead,,2019-06-21,55,26.44,0.2,47.0,45.0,327.0,253.0,3.0
+No,No,No,Yes,1,Not known,Adenocarcinoma,Metastatic,Stage III,Not applicable,No,Disease Control,Dead,2020-02-29,2019-06-25,62,22.38,2.1,31.0,56.0,1369.0,671.0,3.1
+Hypothyroidism,Yes,Yes,Not known,1,Yes,Adenocarcinoma,Incidental,Stage IV,Portsite,Simple,Disease Control,Alive,,2019-05-03,68,24.11,,,,,,
+No,No,No,No,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,,Dead,2019-08-25,2019-06-20,59,,1.0,248.0,165.0,256.0,326.0,3.8
+No,Yes,Yes,No,1,Yes,Adenocarcinoma,Incidental,Stage IV,Not applicable,Simple,Disease Control,Dead,2019-12-06,2019-06-18,62,21.64,0.3,23.0,20.0,131.0,28.0,4.5
+Hypothyroidism,No,No,Not known,0,Not known,Neuroendocrine carcinoma,Locally advanced,Stage IV,Not applicable,No,Palliative_care,Dead,2019-10-01,2019-06-28,49,21.94,10.4,55.0,121.0,520.0,426.0,4.2
+No,No,No,No,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Disease Control,,,2019-07-05,72,22.27,1.1,28.0,17.0,111.0,57.0,4.1
+No,No,No,No,1,Not known,Others,Metastatic,Stage IV,Not applicable,No,Palliative_care,Dead,2019-09-17,2019-06-27,63,15.95,,,,,,
+No,Yes,Yes,No,1,Not known,Adenocarcinoma,Incidental,Stage III,Not applicable,Simple,Disease Control,Dead,2020-01-19,2019-04-30,64,29.29,0.4,92.0,48.0,251.0,431.0,4.3
+No,No,Yes,No,2,Yes,Adenocarcinoma,Locally advanced,Stage III,Not applicable,Simple,Disease Control,Alive,,2019-06-16,62,19.28,0.4,33.0,27.0,144.0,86.0,4.1
+No,No,No,Not known,1,Not known,Adenocarcinoma,Locally advanced,Stage III,Not applicable,No,Disease Control,,,2019-07-12,68,24.73,18.8,34.0,18.0,267.0,437.0,3.8
+No,Yes,No,No,1,Not known,Carcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2019-12-27,2019-07-16,49,0.0,6.0,320.0,36.0,126.0,422.0,3.0
+Not known,Not known,Not known,Not known,2,Not known,Adenocarcinoma,Metastatic,Stage IV,Not applicable,Simple,Disease Control,,,2019-06-25,56,22.83,,,,,,
+Not known,Not known,Not known,Not known,1,Not known,Adenocarcinoma,Metastatic,Not known,Not applicable,No,Disease Control,Dead,2019-10-01,2019-07-15,56,35.88,3.9,56.0,66.0,118.0,871.0,4.0
+No,No,Yes,No,1,Yes,Adenocarcinoma,Incidental,Stage II,Not applicable,Simple,Disease Control,Alive,,2019-06-10,64,20.12,0.4,36.0,30.0,63.0,31.0,3.9
+No,No,No,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2019-10-28,2019-06-15,54,15.72,2.2,136.0,69.0,1656.0,657.0,3.5
+No,Yes,No,Yes,1,Yes,Adenocarcinoma,Incidental,Stage III,Not applicable,Simple,Disease Control,Dead,2019-09-12,2019-07-03,59,19.25,9.3,134.0,55.0,1650.0,1874.0,2.9
+No,Yes,No,No,1,Yes,Adenocarcinoma,,Stage IV,Not applicable,Simple,Disease Control,Alive,,2019-05-25,58,22.84,0.7,27.0,17.0,50.0,16.0,3.3
+No,No,Yes,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Lungs,No,Disease Control,,,2019-07-25,66,23.93,0.5,40.0,20.0,127.0,26.0,4.1
+No,No,Yes,No,2,Not known,Adenocarcinoma,Incidental,Stage III,Not applicable,Simple,Disease Control,Dead,2019-10-09,2019-07-04,68,23.8,0.7,65.0,36.0,224.0,103.0,3.2
+No,No,No,No,2,Not known,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Palliative_care,Dead,2020-03-26,2019-07-19,72,19.39,0.5,28.0,34.0,82.0,40.0,3.9
+No,Yes,Yes,Not known,1,Yes,Adenocarcinoma,Locally advanced,Stage III,Not applicable,Radical,Curative,Dead,2021-01-25,2019-07-23,63,33.33,3.2,75.0,90.0,463.0,200.0,2.9
+No,No,Yes,Not known,2,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2020-06-16,2019-08-07,75,26.76,7.5,82.0,46.0,97.0,94.0,3.6
+No,Yes,No,No,3,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2019-11-29,2019-08-06,59,18.69,,,,,,
+Hypothyroidism,Yes,Yes,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2019-11-02,2019-07-29,64,23.59,12.5,133.0,43.0,225.0,301.0,4.0
+No,No,No,No,2,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2020-01-15,2019-08-14,74,25.4,0.6,38.0,56.0,172.0,676.0,3.5
+No,No,No,No,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,,,2019-08-08,79,17.45,0.6,139.0,34.0,711.0,910.0,3.7
+No,No,No,Yes,1,Not known,Carcinoma,Metastatic,Stage IV,Liver,No,,Dead,2020-08-26,2019-08-01,67,,,,,,,
+No,No,Yes,Not known,1,Not known,Adenocarcinoma,Locally advanced,Stage III,Not applicable,No,Disease Control,Dead,2020-02-24,2019-08-09,64,18.48,0.4,18.0,24.0,371.0,603.0,3.8
+No,No,Yes,No,0,Not known,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Disease Control,Dead,2020-08-03,2019-08-01,62,28.11,1.8,47.0,54.0,715.0,685.0,3.8
+No,No,No,No,1,Not known,Adenocarcinoma,Locally advanced,Stage III,Not applicable,No,,Dead,2020-11-15,2019-08-09,38,21.57,11.9,82.0,97.0,305.0,162.0,3.9
+Not known,Not known,Not known,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2020-11-15,2019-08-13,70,18.07,0.9,43.0,33.0,133.0,74.0,3.6
+No,No,No,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,No,Disease Control,Dead,2019-12-15,2019-08-19,61,,1.3,162.0,190.0,111.0,97.0,3.8
+Hypothyroidism,Yes,Yes,Not known,3,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2021-04-20,2019-08-19,59,0.0,0.7,112.0,33.0,232.0,327.0,3.6
+No,Yes,Yes,Yes,1,Yes,Adenocarcinoma,Incidental,Stage IV,Peritoneum & Omentum,Simple,Disease Control,Dead,2021-03-14,2019-07-20,48,25.02,0.3,26.0,30.0,100.0,117.0,4.3
+No,No,No,No,2,Not known,Adenocarcinoma,Incidental,Stage IV,Stomach & Intestine,Radical,Disease Control,Dead,2019-11-18,2019-07-21,42,16.94,0.8,59.0,55.0,301.0,536.0,3.9
+No,No,No,No,2,Not known,Adenocarcinoma,Locally advanced,Not known,Not applicable,No,Palliative_care,,,2019-08-14,36,22.91,1.9,347.0,99.0,544.0,428.0,2.7
+No,No,No,No,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2019-11-15,2019-09-11,71,0.0,0.3,29.0,17.0,200.0,23.0,3.8
+No,No,No,No,2,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver & Lungs,No,Palliative_care,Dead,2019-10-02,2019-08-30,56,18.04,32.4,139.0,68.0,772.0,69.0,3.4
+No,Yes,Yes,No,4,Not known,Adenocarcinoma,Locally advanced,Stage III,Not applicable,No,Palliative_care,Dead,2019-11-18,2019-08-08,54,24.76,9.6,24.0,132.0,293.0,1095.0,3.0
+No,Yes,Yes,No,2,Yes,Adenocarcinoma,Incidental,Stage III,Not applicable,Simple,Disease Control,Alive,,2019-08-03,55,23.06,0.6,37.0,43.0,134.0,46.0,4.7
+Not known,Not known,Not known,Not known,0,Not known,Adenocarcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Alive,,2019-09-10,52,,,,,,,
+No,Yes,Yes,No,1,Yes,Adenocarcinoma,,Stage IV,Liver,Simple,Disease Control,Dead,2020-04-15,2019-07-22,49,20.63,,,,,,
+No,No,No,No,2,Not known,Adenocarcinoma,Locally advanced,Stage III,Not applicable,No,Palliative_care,Dead,2019-12-24,2019-08-29,65,19.91,17.8,68.0,39.0,353.0,187.0,3.6
+No,No,Yes,No,3,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2020-01-15,2019-09-11,83,21.49,,,,,,
+No,Yes,No,No,0,Polyp,Adenocarcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Alive,,2019-08-21,39,,,,,,,
+No,No,No,Yes,0,Not known,Adenocarcinoma,Locally advanced,Stage IV,Liver,Radical,Curative,Dead,2020-02-05,2019-09-11,65,18.82,8.1,168.0,105.0,419.0,501.0,3.4
+Not known,Not known,Not known,Not known,0,Not known,Neuroendocrine carcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2019-10-15,2019-08-31,60,26.46,0.7,28.0,16.0,96.0,31.0,4.5
+No,Yes,Yes,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Disease Control,,,2019-07-17,49,24.74,1.0,67.0,39.0,471.0,515.0,4.1
+No,Yes,No,Not known,Not known,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2020-01-25,2019-08-23,56,0.0,,,,,,
+Not known,Not known,Not known,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Palliative_care,Dead,2019-10-22,2019-09-06,67,23.48,3.0,139.0,138.0,849.0,1092.0,3.6
+Hypothyroidism,Yes,Yes,Not known,0,Polyp,Adenocarcinoma,Incidental,Stage IV,Lungs,Simple,Disease Control,,,2019-08-19,53,22.48,,,,,,
+No,No,No,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Disease Control,,,2019-09-20,40,23.46,0.3,25.0,33.0,166.0,97.0,4.1
+No,Yes,No,Not known,1,Not known,Adenocarcinoma,Not known,Not known,Not applicable,No,,Alive,,2019-09-10,70,,,,,,,
+No,No,No,Not known,3,Yes,Adenosquamous carcinoma,Metastatic,Stage IV,Not applicable,No,Palliative_care,Dead,2019-10-17,2019-09-03,49,23.88,3.1,322.0,74.0,473.0,688.0,2.9
+No,No,No,No,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,,,2019-09-22,60,0.0,,,,,,
+No,Yes,No,Yes,1,Yes,ICPN with invasive carcinoma,,Stage II,Not applicable,Radical,Curative,,,2019-09-15,74,23.6,,,,,,
+No,Yes,Yes,Yes,1,Yes,Adenocarcinoma,Incidental,Stage IV,Liver,Simple,Disease Control,Dead,2020-11-15,2019-09-12,54,24.94,0.3,28.0,24.0,1260.0,2863.0,4.6
+Hypothyroidism,No,No,No,1,Not known,Adenocarcinoma,Incidental,Stage IV,Not applicable,Simple,Disease Control,Dead,2020-11-24,2018-12-23,46,27.86,0.8,83.0,73.0,91.0,46.0,4.9
+No,Yes,No,Not known,1,Not known,Neuroendocrine carcinoma,Locally advanced,Stage IV,Not applicable,No,Disease Control,Dead,2019-10-15,2019-10-11,49,22.43,0.4,88.0,34.0,373.0,122.0,4.0
+No,No,Yes,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2020-09-20,2019-10-16,73,26.27,0.7,47.0,34.0,64.0,45.0,4.1
+No,No,No,No,1,Yes,Adenosquamous carcinoma,Metastatic,Stage IV,Liver,Simple,Disease Control,Dead,2019-12-15,2019-09-07,52,24.68,,,,,,
+Not known,Not known,Not known,Not known,Not known,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2020-02-12,2019-10-16,73,0.0,,,,,,
+Not known,Yes,Not known,Not known,2,Not known,Adenocarcinoma,Incidental,Stage IV,Lungs,No,Palliative_care,Dead,2020-01-07,2019-04-15,83,25.39,0.4,29.0,25.0,80.0,37.0,3.1
+Not known,Not known,Not known,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,Disease Control,Dead,2021-01-25,2019-08-03,36,24.24,0.7,95.0,134.0,563.0,52.0,2.9
+Not known,Not known,Not known,Not known,0,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,,,2019-09-29,53,24.22,0.6,31.0,21.0,87.0,17.0,4.3
+No,No,Yes,No,1,Yes,Adenocarcinoma,Incidental,Stage II,Not applicable,Radical,Curative,Alive,,2019-09-16,51,23.69,0.5,51.0,43.0,131.0,22.0,4.7
+No,No,No,Yes,2,Yes,Adenocarcinoma,Incidental,Stage IV,Liver,Simple,Disease Control,Dead,2019-11-29,2019-05-10,44,,,,,,,
+No,Yes,Yes,Not known,1,Yes,Adenocarcinoma,Incidental,Stage III,Not applicable,Partial,Disease Control,Dead,2020-01-09,2019-09-30,52,23.21,0.3,24.0,14.0,106.0,19.0,3.7
+No,No,No,No,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver & Lungs,No,Disease Control,Dead,2020-01-05,2019-10-24,65,31.36,0.5,170.0,105.0,463.0,647.0,3.8
+Hypothyroidism,Yes,Yes,No,1,Not known,Adenocarcinoma,Incidental,Stage II,Not applicable,Simple,Disease Control,,,2019-09-28,54,24.34,0.7,43.0,55.0,121.0,173.0,4.6
+No,Yes,No,No,2,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver & Lungs,No,Palliative_care,Dead,2019-11-15,2019-10-26,44,23.18,4.7,82.0,43.0,466.0,732.0,2.3
+Hypothyroidism,No,Yes,Yes,0,Yes,Adenocarcinoma,Locally advanced,Stage III,Not applicable,Radical,Disease Control,Dead,2020-02-15,2019-11-11,56,24.17,0.8,1148.0,100.0,114.0,143.0,2.2
+No,No,Yes,No,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2020-04-25,2019-10-28,62,20.47,0.5,81.0,35.0,216.0,317.0,3.9
+No,No,Yes,Yes,1,No,Adenocarcinoma,Locally advanced,Stage II,Not applicable,Radical,Curative,Dead,2020-10-20,2019-10-23,51,24.68,0.4,32.0,16.0,56.0,36.0,4.5
+Not known,Not known,Not known,Not known,Not known,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2019-02-23,2019-10-25,54,20.95,0.4,41.0,27.0,442.0,248.0,4.1
+No,Yes,No,No,3,Yes,Adenocarcinoma,Metastatic,Stage IV,Lungs,No,Palliative_care,Dead,2019-12-31,2019-11-04,53,22.3,0.5,116.0,109.0,708.0,2514.0,3.7
+Hypothyroidism,No,No,No,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Lungs,Simple,Disease Control,Dead,2019-12-02,2018-11-07,64,26.81,1.3,61.0,31.0,228.0,139.0,2.5
+No,Yes,Yes,Yes,2,Not known,Adenocarcinoma,Incidental,Stage II,Not applicable,Radical,Disease Control,,,2019-10-11,71,0.0,0.3,31.0,17.0,148.0,50.0,4.3
+No,No,Yes,No,1,Not known,Adenocarcinoma,Incidental,Stage IV,Portsite,Simple,Disease Control,Alive,,2019-03-07,61,22.98,0.3,24.0,18.0,87.0,34.0,3.5
+No,No,No,No,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,No,Disease Control,Dead,2021-09-07,2019-09-16,62,18.85,0.3,33.0,35.0,506.0,315.0,4.4
+No,Yes,No,No,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2019-12-15,2019-11-06,70,20.2,,,,,,
+No,No,No,No,1,Not known,Adenocarcinoma,Locally advanced,Not known,Not applicable,No,Disease Control,Dead,2020-07-26,2020-02-05,39,21.07,7.3,63.0,309.0,425.0,2141.0,4.3
+No,No,Yes,Yes,2,Not known,Adenocarcinoma,Incidental,Not known,Not applicable,Simple,Disease Control,Dead,2020-11-08,2019-04-16,75,18.16,0.8,38.0,23.0,110.0,15.0,4.3
+No,No,Yes,Yes,1,Yes,Adenocarcinoma,Incidental,Stage III,Not applicable,Simple,Disease Control,Dead,2020-03-15,2019-11-05,54,23.56,,,,,,
+No,Yes,No,No,2,Yes,Adenocarcinoma,Locally advanced,Stage III,Not applicable,No,,Dead,2020-02-15,2019-10-04,54,21.8,0.6,32.0,19.0,163.0,276.0,4.5
+No,Yes,Yes,No,1,Not known,Adenocarcinoma,Incidental,Stage I,Not applicable,Radical,Disease Control,Alive,,2019-10-07,64,28.18,0.8,19.0,14.0,74.0,14.0,4.1
+No,Yes,Yes,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,Simple,Disease Control,Dead,2020-09-15,2019-11-19,71,28.11,,,,,,
+No,No,Yes,Yes,2,Polyp,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2020-08-20,2019-11-23,57,0.0,5.9,64.0,54.0,1433.0,800.0,1.8
+Not known,Not known,Not known,Not known,1,Yes,Adenocarcinoma,Incidental,Stage III,Not applicable,Radical,Disease Control,,,2019-10-22,53,0.0,0.2,30.0,22.0,73.0,71.0,4.0
+Not known,Not known,Not known,Not known,Not known,Yes,Adenocarcinoma,Incidental,Stage II,Not applicable,Simple,Disease Control,,,2019-10-29,49,,,,,,,
+Not known,Not known,Not known,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2020-06-05,2019-11-22,59,0.0,0.8,54.0,34.0,459.0,299.0,3.3
+Hypothyroidism,No,Yes,No,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2020-07-25,2019-11-20,74,25.9,0.6,38.0,20.0,136.0,53.0,3.3
+Hypothyroidism,No,Yes,No,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver & Lungs,No,Disease Control,Dead,2020-05-31,2019-11-17,67,17.93,0.3,118.0,35.0,287.0,243.0,3.9
+Hypothyroidism,No,No,Not known,0,Yes,Adenocarcinoma,Incidental,Stage III,Not applicable,Radical,Curative,,,2019-11-07,46,24.09,2.4,29.0,22.0,62.0,72.0,4.3
+No,Yes,Yes,Not known,3,Not known,Adenocarcinoma,Locally advanced,Stage III,Not applicable,No,,Dead,2020-03-15,2019-12-09,59,15.21,0.7,72.0,90.0,424.0,205.0,3.0
+No,No,No,No,1,Yes,Adenocarcinoma,Incidental,Stage IV,Liver,Simple,Disease Control,Dead,2020-02-27,2019-09-30,62,15.72,0.5,39.0,30.0,232.0,96.0,3.5
+Not known,Not known,Not known,Not known,Not known,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,,Dead,2019-12-30,2019-12-12,70,,,,,,,
+No,No,No,Not known,1,Yes,Adenocarcinoma,Locally advanced,Stage III,Not applicable,No,,Dead,2020-01-28,2019-11-23,49,19.39,4.6,139.0,89.0,1183.0,669.0,3.6
+No,No,No,Yes,1,Yes,Adenocarcinoma,Incidental,Stage III,Not applicable,Simple,Disease Control,Alive,,2019-11-19,58,26.03,,,,,,
+No,Yes,Yes,Yes,1,Not known,Adenocarcinoma,Incidental,Stage III,Not applicable,Simple,Disease Control,Alive,,2019-11-26,57,22.75,0.4,23.0,18.0,69.0,14.0,4.1
+Hypothyroidism,Yes,Yes,Not known,1,Yes,Adenocarcinoma,,Stage II,Not applicable,Radical,Curative,Alive,,2019-09-25,66,0.0,0.5,19.0,19.0,56.0,17.0,4.6
+No,Yes,Yes,Not known,Not known,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2020-02-28,2019-12-17,59,23.87,,,,,,
+Hypothyroidism,No,No,Not known,2,Yes,Adenocarcinoma,Incidental,Stage IV,Not applicable,Simple,Disease Control,,,2019-07-23,54,,20.2,292.0,176.0,1912.0,486.0,3.9
+Hypothyroidism,No,No,Not known,1,Yes,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,Dead,2020-03-12,2019-12-21,50,25.99,1.8,108.0,75.0,598.0,75.0,3.4
+No,No,Yes,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Palliative_care,,,2019-12-24,73,25.27,,,,,,
+No,Yes,No,No,3,Not known,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,Simple,Disease Control,,,2018-12-14,73,36.11,,,,,,
+No,No,No,No,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,Dead,2019-08-15,2018-08-16,60,22.13,0.3,25.0,29.0,113.0,38.0,3.8
+Hypothyroidism,No,Yes,No,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Not applicable,No,,,,2018-10-10,64,,,,,,,
+No,No,No,No,1,Not known,Adenocarcinoma,Locally advanced,Not known,Not applicable,No,,Dead,2019-06-15,2019-01-25,44,,,,,,,
+No,No,Yes,Yes,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Liver,No,Disease Control,,,2018-11-15,44,19.04,16.8,86.0,38.0,343.0,93.0,3.6
+No,No,No,Not known,1,Not known,Adenocarcinoma,Metastatic,Stage IV,Peritoneum & Omentum,No,Disease Control,,,2018-11-22,41,24.56,1.9,57.0,49.0,308.0,141.0,2.4
+No,No,Yes,Yes,4,Not known,Adenocarcinoma,Metastatic,Not known,,No,Disease Control,Dead,2020-03-21,2018-01-15,66,,,,,,,
+No,No,No,Yes,2,Not known,Adenocarcinoma,Locally advanced,Stage III,Not applicable,No,,Dead,2020-05-24,2019-01-27,59,29.91,,,,,,
+No,No,Yes,Not known,0,Not known,Adenosquamous carcinoma,Locally advanced,Stage III,Not applicable,Radical,Curative,,,2017-06-15,58,,,,,,,
+Not known,Not known,Not known,Not known,Not known,Yes,Adenocarcinoma,Locally advanced,Stage III,Not applicable,Radical,Disease Control,Alive,,2019-02-12,60,0.0,,,,,,
